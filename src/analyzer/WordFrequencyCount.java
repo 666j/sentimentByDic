@@ -36,6 +36,7 @@ public class WordFrequencyCount {
 	Map<String, Double> nWordsIndexMap = new HashMap<String, Double>();//存储名词
 	Map<String, Double> vWordsIndexMap = new HashMap<String, Double>();//存储动词
 	Map<String, Double> adjWordsIndexMap = new HashMap<String, Double>();//存储形容词
+	private EmotionDictionary emoDic = new EmotionDictionary();
 	 OutputStreamWriter write;
 	 BufferedWriter writer;
 	private WordSegmentor wordSeg = new WordSegmentor();//初始化分词器
@@ -54,8 +55,14 @@ public class WordFrequencyCount {
 			if(words == null)
 				break;
 			//将读取的词和存入wordsIndexMap中
+			int flag;
 			for(String word : words) {
 				wCount++;
+				String data=word.split("/")[0];
+				
+				if((flag = emoDic.testWord(data)) != 0&& !Stopwords.isStopword(data)) {
+					System.out.println(word+"	"+flag);
+				}
 				if(wordsIndexMap.containsKey(word)) {
 					double num = wordsIndexMap.get(word);
 					num++;
@@ -104,7 +111,7 @@ public class WordFrequencyCount {
 	            return o1.getValue().compareTo(o2.getValue());  
 	        }  
 	    });  
-	    WriteListToFile(fwlistList,"./DataFiles/frenquencyBysort.txt");
+	    WriteFile(map,"./DataFiles/frenquencyBysort.txt");
 		
 	}
 	//按词性输出

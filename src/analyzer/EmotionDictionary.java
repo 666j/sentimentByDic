@@ -26,6 +26,7 @@ public class EmotionDictionary {
 		super();
 	}
 	
+	//将情感词典中的词写入存储到map中
 	public void addDic(String filename, boolean polar) {
 		BufferedReader bufReader = null;
 		File file = new File(filename);
@@ -71,6 +72,7 @@ public class EmotionDictionary {
 		}
 	}
 	
+	//得到某个词的情感。
 	public int testWord(String word) {
 		Boolean polar;
 		if((polar = emotionDic.get(word)) != null)
@@ -79,6 +81,7 @@ public class EmotionDictionary {
 			return 0;
 	}
 	
+	//得到一条微博的情感极性
 	public int testWeibo(String weibo) {
 		int polar = 0;
 		Iterator<Entry<String, Boolean>> iter = emotionDic.entrySet().iterator();

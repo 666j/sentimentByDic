@@ -43,9 +43,13 @@ public class FeatureExtractor {
 //		System.out.println("Adding emotion dictionary....");
 		extractor.getEmoDic().addDic(DefaultConstant.DEFAULT_POSITIVE_DIC, true);
 		extractor.getEmoDic().addDic(DefaultConstant.DEFAULT_NEGATIVE_DIC, false);
-		 WordFrequencyCount wfCount  = new WordFrequencyCount();
-		 wfCount.getfWord();
+//		 WordFrequencyCount wfCount  = new WordFrequencyCount();
+//		 wfCount.getfWord();
 //		 wfCount.test();
+		int i = extractor.emoDic.testWord("æÌºì");
+//		System.out.println(i);
+		WordFrequencyCountByProal wFrequencyCountByProal = new WordFrequencyCountByProal();
+		wFrequencyCountByProal.StatisticalFrequency();
 //		System.out.println("Building text vector....");
 		
 		
@@ -61,6 +65,7 @@ public class FeatureExtractor {
 //		
 		System.out.println("Done!");
 	}
+	
 	
 	public void buildSVMFile() {
 		VectorWriter out = new VectorWriter(DefaultConstant.DEFAULT_TVECTOR_FILE);

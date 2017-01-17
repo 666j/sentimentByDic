@@ -1,2143 +1,1443 @@
-老 : 376.0
-正式 : 60.0
-适 : 2.0
-深远 : 2.0
-霸道 : 10.0
-消沉 : 3.0
-愉快 : 1.0
-透 : 7.0
-利索 : 1.0
-无微不至 : 1.0
-虔诚 : 3.0
-不必要 : 2.0
-精锐 : 2.0
-速 : 1.0
-舒适 : 13.0
-敌对 : 4.0
-Junior : 2.0
-急 : 4.0
-缜密 : 1.0
-流畅 : 5.0
-怪 : 15.0
-庄严 : 1.0
-旺盛 : 2.0
-灿烂 : 17.0
-寒冷 : 4.0
-集中 : 3.0
-特立独行 : 1.0
-逸 : 3.0
-充裕 : 1.0
-耻 : 2.0
-汹涌 : 1.0
-走投无路 : 3.0
-假 : 3.0
-yellow : 2.0
-偏 : 4.0
-除此之外 : 1.0
-恒 : 9.0
-悬殊 : 2.0
-别出心裁 : 1.0
-幸运 : 7.0
-聒噪 : 1.0
-抑郁 : 12.0
-正当 : 6.0
-美丽 : 41.0
-洋气 : 4.0
-浑厚 : 1.0
-遥 : 4.0
-健 : 12.0
-聪 : 3.0
-有限 : 13.0
-火 : 41.0
-压抑 : 2.0
-恭 : 4.0
-灰 : 5.0
-飘渺 : 1.0
-Red : 1.0
-NIKE : 2.0
-清淡 : 1.0
-妥善 : 1.0
-灵 : 26.0
-恶 : 7.0
-恻 : 1.0
-壮实 : 1.0
-强硬 : 1.0
-灿 : 1.0
-任性 : 5.0
-难得 : 4.0
-迟钝 : 1.0
-good : 6.0
-温馨 : 14.0
-Viva : 2.0
-自由 : 9.0
-不耐烦 : 1.0
-悠 : 3.0
-解渴 : 1.0
-Dead : 1.0
-vicious : 1.0
-肥 : 15.0
-悦 : 5.0
-邪 : 1.0
-悬 : 1.0
-潦草 : 1.0
-sane : 1.0
-愉悦 : 2.0
-悲 : 20.0
-傲 : 13.0
-繁盛 : 1.0
-俏皮 : 4.0
-Viscose : 1.0
-疲倦 : 1.0
-暖和 : 1.0
-傻 : 24.0
-深邃 : 2.0
-勃勃生机 : 1.0
-胀 : 7.0
-烁 : 3.0
-郁 : 2.0
-烂 : 31.0
-肯定 : 1.0
-young : 4.0
-烈 : 1.0
-难忘 : 6.0
-开心 : 146.0
-高傲 : 1.0
-生分 : 2.0
-圆圆 : 15.0
-惑 : 2.0
-浅薄 : 1.0
-牢固 : 2.0
-劳累 : 1.0
-胖 : 68.0
-难过 : 25.0
-犹豫 : 9.0
-解乏 : 1.0
-灵动 : 7.0
-BIG : 1.0
-恶劣 : 10.0
-不赖 : 1.0
-烦 : 25.0
-不济 : 1.0
-踊跃 : 1.0
-惨 : 14.0
-重大 : 17.0
-万万 : 9.0
-着急 : 18.0
-热 : 115.0
-有益 : 3.0
-惰 : 1.0
-自然而然 : 1.0
-合理 : 13.0
-翻天覆地 : 1.0
-诱人 : 2.0
-确实 : 9.0
-强壮 : 3.0
-猛烈 : 3.0
-脆 : 18.0
-熟练 : 2.0
-不大不小 : 1.0
-脏 : 25.0
-慈祥 : 1.0
-rainy : 1.0
-危险 : 14.0
-安宁 : 1.0
-焕 : 1.0
-Vera : 1.0
-动人 : 11.0
-轻而易举 : 2.0
-愚 : 6.0
-五彩斑斓 : 2.0
-美满 : 1.0
-怕事 : 1.0
-精明 : 1.0
-邋遢 : 1.0
-强大 : 45.0
-焦 : 4.0
-方便 : 5.0
-Ait : 1.0
-英明 : 3.0
-胆大 : 1.0
-繁杂 : 1.0
-令人感动 : 1.0
-梗直 : 1.0
-肤浅 : 1.0
-紧要 : 1.0
-安定 : 2.0
-坦诚 : 1.0
-好笑 : 7.0
-直观 : 3.0
-像样 : 2.0
-如火如荼 : 1.0
-清亮 : 1.0
-能动 : 1.0
-American : 5.0
-狭隘 : 3.0
-重要 : 145.0
-清纯 : 4.0
-慈 : 9.0
-抽象 : 3.0
-先 : 3.0
-magnificent : 1.0
-宽敞 : 2.0
-系统 : 1.0
-慌 : 8.0
-不足 : 3.0
-温婉 : 1.0
-慎 : 18.0
-unforgettable : 1.0
-出名 : 9.0
-可靠 : 2.0
-透彻 : 6.0
-煞 : 1.0
-慢 : 24.0
-酣 : 3.0
-腥 : 5.0
-酥 : 14.0
-SOB : 1.0
-慧 : 7.0
-生动 : 11.0
-慨 : 1.0
-全 : 181.0
-文明 : 11.0
-龌龊 : 2.0
-干净利落 : 1.0
-容易 : 78.0
-安详 : 1.0
-疲惫 : 6.0
-感人 : 23.0
-酷 : 62.0
-酸 : 45.0
-优越 : 2.0
-厚重 : 1.0
-大方 : 3.0
-怅惘 : 1.0
-悠闲自在 : 1.0
-All : 7.0
-New : 3.0
-好学 : 1.0
-成熟 : 7.0
-迟疑 : 1.0
-天衣无缝 : 1.0
-干净 : 2.0
-威武 : 7.0
-简洁 : 1.0
-高兴 : 23.0
-逗人 : 1.0
-自由自在 : 1.0
-寻常 : 1.0
-深入 : 6.0
-果断 : 24.0
-熟 : 1.0
-长青 : 1.0
-Lonely : 3.0
-憨 : 8.0
-悠久 : 2.0
-憔悴 : 1.0
-不得了 : 4.0
-倔强 : 11.0
-面红耳赤 : 1.0
-好玩儿 : 3.0
-规范 : 1.0
-惊奇 : 4.0
-安谧 : 1.0
-酣畅淋漓 : 2.0
-冷 : 5.0
-干燥 : 1.0
-令人羡慕 : 4.0
-膻 : 1.0
-耐心 : 8.0
-憾 : 4.0
-手舞足蹈 : 1.0
-净 : 14.0
-羞涩 : 3.0
-凄 : 1.0
-孤傲 : 1.0
-平凡 : 19.0
-准 : 48.0
-凉 : 4.0
-娇嫩 : 1.0
-臊 : 1.0
-极大 : 3.0
-重 : 56.0
-野 : 2.0
-开胃 : 6.0
-大名鼎鼎 : 1.0
-柔弱 : 1.0
-一贫如洗 : 1.0
-懒 : 29.0
-在理 : 3.0
-严正 : 1.0
-鲜嫩 : 3.0
-High : 3.0
-燥 : 6.0
-感伤 : 4.0
-逍遥 : 1.0
-空洞 : 1.0
-Centre : 1.0
-臭 : 21.0
-Merry : 12.0
-眼熟 : 4.0
-小气 : 1.0
-懵 : 31.0
-黑暗 : 8.0
-凶 : 10.0
-fantastic : 1.0
-凹 : 1.0
-迟早 : 2.0
-明显 : 6.0
-不幸 : 10.0
-迷茫 : 8.0
-切 : 3.0
-阴凉 : 1.0
-Daft : 1.0
-严实 : 1.0
-炎热 : 3.0
-关键 : 7.0
-beautiful : 2.0
-曼妙 : 1.0
-焦躁 : 3.0
-柔软 : 13.0
-奇特 : 2.0
-刚 : 9.0
-好说 : 2.0
-welcome : 1.0
-适量 : 8.0
-明智 : 2.0
-明白 : 5.0
-浩浩荡荡 : 1.0
-微小 : 20.0
-类似 : 17.0
-清澈 : 5.0
-疾速 : 1.0
-可行 : 1.0
-柔美 : 1.0
-深切 : 1.0
-爽 : 43.0
-警惕 : 3.0
-扁 : 2.0
-温存 : 1.0
-专一 : 6.0
-严寒 : 1.0
-必要 : 10.0
-保暖 : 8.0
-五体投地 : 1.0
-阳刚 : 1.0
-Adult : 1.0
-光芒四射 : 2.0
-牛 : 23.0
-过头 : 2.0
-手足无措 : 2.0
-艰难 : 4.0
-知足 : 6.0
-猖狂 : 4.0
-体面 : 3.0
-UNHAPPY : 1.0
-深刻 : 15.0
-SWEET : 1.0
-客观 : 5.0
-奢侈 : 5.0
-自在 : 2.0
-良 : 9.0
-艰 : 4.0
-和善 : 3.0
-飘逸 : 2.0
-艳 : 21.0
-特 : 70.0
-用功 : 3.0
-清远 : 1.0
-不满 : 3.0
-用力 : 1.0
-入眼 : 2.0
-常见 : 19.0
-friendship : 1.0
-成功 : 67.0
-理所当然 : 4.0
-神速 : 1.0
-贪婪 : 4.0
-不像话 : 2.0
-late : 1.0
-热门 : 7.0
-得当 : 1.0
-协调 : 1.0
-侠义 : 1.0
-热闹 : 8.0
-劣 : 1.0
-严谨 : 5.0
-劲 : 5.0
-芳 : 2.0
-显然 : 3.0
-贫穷 : 1.0
-Brown : 1.0
-狂 : 4.0
-丧气 : 2.0
-粗鲁 : 1.0
-明朗 : 1.0
-勇 : 8.0
-苍 : 6.0
-愕然 : 2.0
-耐热 : 1.0
-stronger : 2.0
-难懂 : 2.0
-拙 : 2.0
-Magical : 1.0
-荒诞 : 3.0
-苟 : 6.0
-狠 : 12.0
-醇厚 : 1.0
-娇小 : 2.0
-优异 : 1.0
-勤 : 4.0
-Happy : 61.0
-苦 : 12.0
-娇气 : 3.0
-聪明 : 30.0
-独 : 4.0
-通俗 : 4.0
-勤奋 : 5.0
-妙语连珠 : 1.0
-不当 : 4.0
-全面 : 4.0
-急躁 : 1.0
-OST : 8.0
-辉煌 : 5.0
-充实 : 1.0
-弱小 : 2.0
-short : 2.0
-funk : 1.0
-疯狂 : 38.0
-匀 : 3.0
-冷淡 : 3.0
-豪爽 : 1.0
-茂 : 3.0
-头疼 : 8.0
-放肆 : 3.0
-壮丽 : 3.0
-珍贵 : 22.0
-happy : 9.0
-electoral : 1.0
-兴旺 : 1.0
-和易 : 1.0
-封建 : 1.0
-Special : 1.0
-猛 : 10.0
-上进 : 1.0
-lonely : 1.0
-扎实 : 1.0
-天真 : 9.0
-茫然无措 : 2.0
-冷清 : 1.0
-EPIC : 1.0
-内向 : 1.0
-稳固 : 2.0
-简约 : 7.0
-坚强 : 17.0
-头痛 : 3.0
-粗糙 : 6.0
-Dylan : 2.0
-Wee : 1.0
-理智 : 2.0
-挺 : 5.0
-妖娆 : 1.0
-欢娱 : 1.0
-畅快 : 2.0
-简练 : 1.0
-smart : 1.0
-华 : 8.0
-疲劳 : 1.0
-卑 : 7.0
-荒 : 28.0
-卓 : 2.0
-费神 : 1.0
-low : 2.0
-博 : 11580.0
-不便 : 2.0
-独裁 : 2.0
-Jessie : 2.0
-亲密 : 1.0
-愤怒 : 4.0
-沉默 : 8.0
-荣 : 9.0
-荤 : 5.0
-疏朗 : 1.0
-宽松 : 1.0
-紧密 : 2.0
-酸痛 : 3.0
-危 : 1.0
-爱美 : 1.0
-捷 : 2.0
-Cony : 1.0
-侥幸 : 1.0
-有神 : 1.0
-了然 : 1.0
-辛辣 : 1.0
-茫然 : 3.0
-畅通 : 1.0
-优美 : 6.0
-柔情 : 1.0
-严峻 : 4.0
-饱满 : 1.0
-玄 : 8.0
-神清气爽 : 4.0
-厉 : 1.0
-Safe : 1.0
-响亮 : 5.0
-merry : 3.0
-丰富 : 12.0
-兴隆 : 3.0
-好走 : 1.0
-厚 : 15.0
-不适 : 3.0
-齐备 : 1.0
-不通 : 7.0
-相宜 : 1.0
-清脆 : 1.0
-浮华 : 1.0
-Catalog : 1.0
-焦急 : 1.0
-路人皆知 : 1.0
-小巧 : 3.0
-传统 : 1.0
-见效 : 1.0
-便宜 : 4.0
-逊色 : 1.0
-坚忍 : 1.0
-时髦 : 1.0
-莽 : 21.0
-深厚 : 6.0
-密集 : 4.0
-友 : 6.0
-绝望 : 11.0
-LOFTER : 12.0
-最高 : 81.0
-有血有肉 : 1.0
-要紧 : 2.0
-Walters : 1.0
-缠绵 : 2.0
-费解 : 1.0
-寂静 : 2.0
-雅致 : 3.0
-忙碌 : 1.0
-Bad : 3.0
-古 : 17.0
-有种 : 5.0
-固定 : 6.0
-兴盛 : 1.0
-素洁 : 1.0
-恰到好处 : 1.0
-狂躁 : 1.0
-心急火燎 : 1.0
-充沛 : 1.0
-一致 : 4.0
-稚嫩 : 1.0
-虚伪 : 5.0
-失望 : 9.0
-晕头转向 : 1.0
-孤独 : 33.0
-近视 : 4.0
-胆小 : 8.0
-孤苦 : 1.0
-吉 : 11.0
-卑贱 : 5.0
-起劲 : 2.0
-鲜活 : 6.0
-chic : 1.0
-怪异 : 3.0
-焦灼 : 1.0
-专心 : 5.0
-Incredible : 1.0
-开化 : 1.0
-惊讶 : 13.0
-清醒 : 11.0
-感慨 : 3.0
-一般 : 11.0
-明确 : 10.0
-心安 : 2.0
-easy : 1.0
-清醇 : 2.0
-不悦 : 3.0
-SURE : 1.0
-豪华 : 15.0
-急促 : 4.0
-团结 : 2.0
-破旧 : 1.0
-纯洁 : 1.0
-超然 : 1.0
-悦耳 : 1.0
-冷漠 : 3.0
-大惊小怪 : 5.0
-安康 : 1.0
-呆 : 1.0
-民主 : 12.0
-哀愁 : 1.0
-和睦 : 1.0
-得意 : 3.0
-称职 : 1.0
-无常 : 8.0
-清净 : 3.0
-轰轰烈烈 : 1.0
-瑞 : 4.0
-生疏 : 4.0
-粉身碎骨 : 3.0
-grateful : 1.0
-恬静 : 1.0
-心寒 : 2.0
-清凉 : 1.0
-急迫 : 2.0
-福气 : 1.0
-right : 3.0
-暧昧 : 5.0
-自大 : 1.0
-水泄不通 : 1.0
-有条不紊 : 1.0
-平和 : 2.0
-孤单 : 13.0
-棘手 : 1.0
-丑恶 : 3.0
-缥缈 : 1.0
-均匀 : 4.0
-大汗淋漓 : 1.0
-精妙 : 1.0
-悠然 : 1.0
-健硕 : 1.0
-卓越 : 2.0
-钝 : 1.0
-念旧 : 2.0
-缓慢 : 2.0
-华丽 : 13.0
-般配 : 2.0
-富有 : 1.0
-咸 : 5.0
-客气 : 4.0
-虚心 : 1.0
-悲伤 : 22.0
-内疚 : 1.0
-哀 : 2.0
-肥胖 : 1.0
-分明 : 3.0
-Corporate : 1.0
-愤慨 : 2.0
-自如 : 2.0
-凄清 : 1.0
-难受 : 10.0
-响 : 5.0
-衰弱 : 2.0
-丢人 : 9.0
-性急 : 1.0
-洁净 : 2.0
-清爽 : 1.0
-不好惹 : 3.0
-远大 : 2.0
-怠惰 : 1.0
-蓝 : 82.0
-Big : 2.0
-吝啬 : 3.0
-不配 : 5.0
-大大 : 2.0
-细嫩 : 1.0
-超凡 : 1.0
-Grand : 1.0
-不公 : 3.0
-Good : 2.0
-狠毒 : 1.0
-良好 : 9.0
-罕见 : 10.0
-充足 : 4.0
-懂事 : 14.0
-自私 : 4.0
-可笑 : 9.0
-狡诈 : 1.0
-淡雅 : 1.0
-锋 : 6.0
-自觉 : 8.0
-锐 : 1.0
-讲究 : 1.0
-伤心 : 23.0
-难吃 : 4.0
-甘 : 4.0
-渺小 : 7.0
-典型 : 4.0
-蔚 : 1.0
-熹微 : 1.0
-甜 : 5.0
-邪恶 : 2.0
-生 : 3.0
-别致 : 1.0
-锦 : 31.0
-Hard : 1.0
-气人 : 1.0
-辛酸 : 3.0
-宝贵 : 22.0
-空灵 : 5.0
-努力 : 35.0
-虚假 : 6.0
-大好 : 3.0
-呆傻 : 2.0
-爽快 : 1.0
-单一 : 1.0
-盛情 : 1.0
-雄厚 : 1.0
-畅 : 5.0
-痛心 : 3.0
-亮丽 : 1.0
-微弱 : 2.0
-Right : 1.0
-敏 : 6.0
-安心 : 5.0
-独立 : 11.0
-嘶哑 : 1.0
-守信 : 1.0
-困乏 : 1.0
-Ancient : 1.0
-好强 : 1.0
-稀罕 : 1.0
-Final : 1.0
-散 : 35.0
-舒畅 : 1.0
-感动 : 17.0
-敦 : 6.0
-COT : 1.0
-默契 : 3.0
-positive : 1.0
-漫漫 : 1.0
-Mobile : 2.0
-阴阳怪气 : 8.0
-整 : 1.0
-乐观 : 1.0
-短促 : 1.0
-轻薄 : 12.0
-宏伟 : 2.0
-聪颖 : 1.0
-痛快 : 5.0
-长 : 12.0
-衰老 : 3.0
-滑稽 : 1.0
-HIGH : 1.0
-薄 : 14.0
-善 : 20.0
-猥琐 : 13.0
-文 : 1.0
-不好过 : 1.0
-完美 : 58.0
-一塌糊涂 : 4.0
-甜蜜 : 7.0
-疏 : 1.0
-坚决 : 4.0
-karen : 1.0
-悲怆 : 2.0
-勉强 : 4.0
-international : 1.0
-斜 : 3.0
-喜 : 5.0
-小心 : 9.0
-紧巴 : 1.0
-焦头烂额 : 1.0
-别扭 : 1.0
-幸甚 : 1.0
-difficult : 1.0
-Advisory : 1.0
-残忍 : 4.0
-无辜 : 2.0
-新 : 431.0
-动荡 : 1.0
-僻静 : 1.0
-不利 : 8.0
-true : 2.0
-天翻地覆 : 1.0
-敏感 : 11.0
-灭绝人性 : 2.0
-疼 : 25.0
-疾 : 4.0
-悠扬 : 1.0
-安逸 : 6.0
-腐败 : 8.0
-有害 : 2.0
-COCO : 1.0
-要强 : 1.0
-best : 2.0
-Clean : 1.0
-痒 : 6.0
-莫名 : 2.0
-性感 : 5.0
-显著 : 3.0
-痛 : 6.0
-Kindle : 1.0
-体无完肤 : 3.0
-physical : 2.0
-稳妥 : 1.0
-旧 : 29.0
-早 : 64.0
-放荡 : 1.0
-单纯 : 5.0
-extraordinary : 2.0
-旱 : 1.0
-闲 : 6.0
-嗲 : 4.0
-含蓄 : 2.0
-干瘪 : 1.0
-痴 : 10.0
-due : 2.0
-感情用事 : 2.0
-旷 : 2.0
-闷 : 1.0
-闹 : 1.0
-旺 : 2.0
-整洁 : 2.0
-发达 : 6.0
-悲恸 : 1.0
-不良 : 8.0
-昌 : 3.0
-明 : 17.0
-暴虐 : 2.0
-易 : 21.0
-阔 : 11.0
-妩媚 : 1.0
-卖座 : 1.0
-僵硬 : 1.0
-根本 : 6.0
-散漫 : 1.0
-高明 : 2.0
-适时 : 1.0
-瘦 : 99.0
-奢华 : 7.0
-不力 : 3.0
-昭 : 1.0
-凌乱 : 2.0
-阳 : 1.0
-阴 : 14.0
-unique : 1.0
-好耍 : 1.0
-凄美 : 1.0
-明媚 : 1.0
-不起眼 : 3.0
-一败涂地 : 1.0
-陌 : 10.0
-cute : 1.0
-long : 7.0
-晏 : 2.0
-顽强 : 4.0
-销魂 : 4.0
-虐 : 51.0
-玲珑 : 4.0
-洒脱 : 7.0
-无耻 : 9.0
-无影无踪 : 3.0
-晚 : 9.0
-虚 : 1.0
-free : 2.0
-兴奋 : 9.0
-鲜美 : 6.0
-狂热 : 2.0
-纷繁 : 2.0
-眉清目秀 : 1.0
-无聊 : 32.0
-沉重 : 5.0
-险 : 1.0
-辛劳 : 3.0
-普 : 62.0
-everyday : 2.0
-有滋有味 : 1.0
-琐碎 : 3.0
-差不多 : 18.0
-长寿 : 3.0
-伤感 : 6.0
-尴尬 : 33.0
-晶 : 1.0
-陶 : 1.0
-卑微 : 4.0
-智 : 28.0
-悲惨 : 5.0
-娇羞 : 1.0
-白 : 108.0
-富裕 : 1.0
-隆 : 4.0
-出奇 : 1.0
-手软 : 3.0
-Warm : 1.0
-机智 : 1.0
-Full : 2.0
-动听 : 3.0
-Jingle : 1.0
-暑 : 2.0
-宜人 : 1.0
-贫乏 : 1.0
-暖 : 3.0
-暗 : 5.0
-矍铄 : 1.0
-坦然 : 1.0
-bare : 1.0
-何等 : 2.0
-从容 : 5.0
-潇洒 : 6.0
-阴险 : 1.0
-慌乱 : 1.0
-暮 : 8.0
-简洁明了 : 1.0
-暴 : 6.0
-眼花缭乱 : 1.0
-flying : 1.0
-辛勤 : 1.0
-辛苦 : 1.0
-轻盈 : 3.0
-骄傲 : 14.0
-Gay : 4.0
-难 : 93.0
-雄 : 5.0
-苍老 : 2.0
-模糊 : 8.0
-雅 : 15.0
-乱七八糟 : 5.0
-Primitive : 1.0
-破碎 : 1.0
-紧张 : 1.0
-挺拔 : 5.0
-突然 : 18.0
-盛 : 1.0
-Teen : 1.0
-GOTHIC : 1.0
-离奇 : 5.0
-barbarian : 1.0
-耳背 : 2.0
-无情 : 2.0
-顺耳 : 2.0
-蛮 : 1.0
-难闻 : 1.0
-困 : 1.0
-酸楚 : 1.0
-阴暗 : 2.0
-安全 : 104.0
-直 : 1.0
-好胜 : 2.0
-healthy : 1.0
-严肃 : 2.0
-反感 : 1.0
-傲慢 : 1.0
-固 : 1.0
-曼 : 6.0
-憨厚 : 1.0
-高雅 : 1.0
-开明 : 3.0
-圆 : 4.0
-Tiny : 1.0
-武断 : 1.0
-wisest : 1.0
-安慰 : 2.0
-Asian : 1.0
-上口 : 1.0
-没羞 : 2.0
-无能 : 4.0
-光彩照人 : 1.0
-熠熠生辉 : 1.0
-一模一样 : 2.0
-朗 : 36.0
-耐用 : 1.0
-俗气 : 1.0
-开阔 : 1.0
-顺遂 : 2.0
-土 : 1.0
-真 : 465.0
-了不起 : 14.0
-Buffet : 2.0
-生硬 : 1.0
-圣 : 16.0
-结实 : 4.0
-肃静 : 1.0
-木 : 8.0
-Faster : 1.0
-Karen : 1.0
-舒服 : 36.0
-可贵 : 5.0
-活泼 : 7.0
-耀眼 : 4.0
-沮丧 : 8.0
-柔和 : 1.0
-LOW : 3.0
-冲动 : 1.0
-惊人 : 14.0
-困倦 : 1.0
-险恶 : 4.0
-平均 : 17.0
-融洽 : 1.0
-势利 : 1.0
-保守 : 1.0
-残酷 : 15.0
-杂 : 1.0
-均 : 1.0
-凉快 : 1.0
-不可收拾 : 1.0
-光彩 : 1.0
-平静 : 13.0
-相似 : 9.0
-secret : 1.0
-臃肿 : 1.0
-坏 : 83.0
-小巧玲珑 : 1.0
-青 : 32.0
-廉洁 : 15.0
-懈怠 : 2.0
-Singe : 1.0
-亲近 : 1.0
-完全 : 89.0
-确切 : 1.0
-平坦 : 6.0
-慌张 : 1.0
-静 : 11.0
-坚 : 2.0
-悲凉 : 1.0
-丢脸 : 3.0
-确凿 : 5.0
-普通 : 39.0
-落后 : 15.0
-恢宏 : 1.0
-欢乐 : 11.0
-荣幸 : 2.0
-NONO : 1.0
-光辉 : 11.0
-圆润 : 2.0
-喜好 : 2.0
-nice : 4.0
-杰 : 12.0
-轻松 : 22.0
-广阔 : 1.0
-公正 : 1.0
-便当 : 3.0
-松 : 1.0
-舒坦 : 6.0
-perfect : 1.0
-瞎 : 1.0
-醒目 : 1.0
-沸沸扬扬 : 3.0
-碍事 : 1.0
-疼痛 : 2.0
-不要脸 : 31.0
-苦涩 : 2.0
-普遍 : 1.0
-不同 : 84.0
-突出 : 7.0
-祥瑞 : 1.0
-安分 : 1.0
-光阴荏苒 : 2.0
-先进 : 8.0
-气愤 : 6.0
-张狂 : 1.0
-淳朴 : 1.0
-凄惨 : 4.0
-枯 : 1.0
-幽暗 : 1.0
-缺德 : 2.0
-精粹 : 5.0
-忠实 : 6.0
-有趣 : 33.0
-松软 : 2.0
-一年四季 : 1.0
-易学 : 8.0
-频繁 : 3.0
-耳熟 : 3.0
-如意 : 9.0
-祥和 : 1.0
-稳定 : 5.0
-黏糊 : 1.0
-透明 : 1.0
-自豪 : 9.0
-紧急 : 17.0
-public : 1.0
-柔 : 3.0
-相近 : 2.0
-简单 : 196.0
-炽热 : 5.0
-ing : 7.0
-幽雅 : 1.0
-活跃 : 3.0
-贴身 : 1.0
-韧 : 2.0
-温热 : 1.0
-困惑 : 1.0
-矫 : 20.0
-短 : 97.0
-较真 : 2.0
-矮 : 6.0
-惆怅 : 4.0
-甜香 : 2.0
-忠诚 : 3.0
-遍体鳞伤 : 1.0
-纯情 : 2.0
-天昏地暗 : 2.0
-正直 : 7.0
-心软 : 2.0
-刻苦 : 2.0
-慌忙 : 1.0
-敏捷 : 2.0
-desperate : 1.0
-情急 : 1.0
-狡黠 : 1.0
-庸俗 : 1.0
-激进 : 2.0
-不和 : 1.0
-叫座 : 1.0
-哈哈大笑 : 2.0
-开朗 : 1.0
-难看 : 1.0
-Superb : 1.0
-AB : 3.0
-蠢 : 28.0
-胆怯 : 1.0
-AI : 3.0
-中肯 : 1.0
-贤惠 : 5.0
-阴柔 : 1.0
-破 : 6.0
-巨大 : 26.0
-措手不及 : 2.0
-Lively : 1.0
-有意思 : 30.0
-模糊不清 : 1.0
-特殊 : 23.0
-愚昧 : 3.0
-陌生 : 3.0
-严重 : 25.0
-最低 : 2.0
-平衡 : 6.0
-清新 : 29.0
-健谈 : 1.0
-整齐 : 3.0
-真实 : 6.0
-hungry : 1.0
-French : 1.0
-畅销 : 1.0
-硕 : 3.0
-寂寞 : 24.0
-虚荣 : 1.0
-跌宕起伏 : 1.0
-凶残 : 3.0
-Simpson : 1.0
-强健 : 2.0
-费事 : 1.0
-痛苦 : 11.0
-慈悲 : 7.0
-硬 : 34.0
-Soft : 2.0
-衰 : 8.0
-亲热 : 1.0
-低下 : 3.0
-衷 : 1.0
-悲苦 : 1.0
-顺 : 24.0
-Pak : 1.0
-颓废 : 1.0
-Chic : 6.0
-圆滑 : 1.0
-Russian : 1.0
-合算 : 1.0
-杰出 : 4.0
-苍凉 : 1.0
-陈旧 : 2.0
-碎 : 24.0
-凄凉 : 2.0
-red : 1.0
-频 : 7.0
-圆满 : 3.0
-阔气 : 1.0
-真诚 : 3.0
-古老 : 3.0
-强悍 : 3.0
-巧妙 : 6.0
-GOOD : 1.0
-好色 : 2.0
-颠 : 2.0
-不错 : 75.0
-碧 : 3.0
-荒凉 : 2.0
-轻飘 : 1.0
-温暖如春 : 3.0
-坦荡 : 8.0
-显眼 : 1.0
-绝对 : 14.0
-长久 : 8.0
-迷离 : 4.0
-谦逊 : 1.0
-孝顺 : 2.0
-Little : 5.0
-灵验 : 1.0
-心惊胆战 : 1.0
-好动 : 1.0
-强烈 : 10.0
-无助 : 5.0
-知名 : 16.0
-惊恐 : 2.0
-清瘦 : 1.0
-棒 : 104.0
-悠长 : 2.0
-sorry : 4.0
-抢眼 : 1.0
-纯熟 : 1.0
-头破血流 : 1.0
-精巧 : 1.0
-坦率 : 1.0
-新颖 : 1.0
-迅速 : 2.0
-省心 : 5.0
-没意思 : 2.0
-荣耀 : 14.0
-狠心 : 1.0
-森 : 17.0
-壮 : 2.0
-White : 2.0
-裸 : 12.0
-蹊跷 : 1.0
-顺利 : 13.0
-一本正经 : 12.0
-纯净 : 2.0
-理直气壮 : 8.0
-和气 : 1.0
-顺手 : 1.0
-欢快 : 2.0
-莫名其妙 : 15.0
-激烈 : 24.0
-清晰 : 12.0
-实惠 : 5.0
-和谐 : 2.0
-粗犷 : 1.0
-低级 : 6.0
-清白 : 5.0
-揪心 : 5.0
-多 : 141.0
-贴心 : 11.0
-IG : 4.0
-不善 : 2.0
-一连串 : 1.0
-大 : 1477.0
-淘气 : 3.0
-MAD : 1.0
-威猛 : 3.0
-形象 : 5.0
-Ulster : 6.0
-Official : 3.0
-奇妙 : 10.0
-Swift : 8.0
-罗曼蒂克 : 12.0
-倒霉 : 4.0
-难堪 : 2.0
-勇猛 : 1.0
-厉害 : 8.0
-鲜艳 : 2.0
-廉价 : 3.0
-奇 : 20.0
-带劲 : 2.0
-个别 : 2.0
-爽口 : 3.0
-草率 : 2.0
-懒惰 : 7.0
-精湛 : 3.0
-偏激 : 2.0
-高大 : 7.0
-神 : 26.0
-愧疚 : 1.0
-overdose : 1.0
-奢 : 2.0
-细软 : 1.0
-正确 : 41.0
-艰巨 : 1.0
-充分 : 12.0
-饱 : 3.0
-马虎 : 1.0
-Wrong : 1.0
-多余 : 4.0
-惋惜 : 1.0
-好 : 2214.0
-淫秽 : 1.0
-饿 : 1.0
-紧凑 : 3.0
-Worlds : 1.0
-DIVING : 3.0
-神圣 : 10.0
-馋 : 4.0
-十万火急 : 1.0
-结巴 : 4.0
-支离破碎 : 2.0
-家破人亡 : 21.0
-麻烦 : 18.0
-妙 : 2.0
-香 : 46.0
-深奥 : 1.0
-荒芜 : 1.0
-新奇 : 3.0
-亲切 : 4.0
-凉爽 : 1.0
-all : 11.0
-new : 8.0
-Lo : 2.0
-妥 : 10.0
-馥 : 6.0
-不道德 : 1.0
-细微 : 1.0
-馨 : 2.0
-real : 2.0
-不易 : 1.0
-Secret : 2.0
-细心 : 2.0
-自乐 : 2.0
-亲爱 : 33.0
-癫狂 : 2.0
-秀 : 121.0
-私 : 27.0
-秃 : 5.0
-闷热 : 3.0
-审慎 : 1.0
-好玩 : 46.0
-合法 : 2.0
-精细 : 1.0
-直爽 : 1.0
-恐怖 : 43.0
-惊慌 : 2.0
-可信 : 4.0
-离谱 : 1.0
-OL : 2.0
-名闻遐迩 : 1.0
-心慌 : 1.0
-多心 : 1.0
-坎坷 : 3.0
-错误 : 13.0
-焦虑 : 7.0
-慈爱 : 1.0
-丧心病狂 : 12.0
-世故 : 2.0
-保温 : 1.0
-不省人事 : 1.0
-曲折 : 3.0
-意外 : 10.0
-均衡 : 1.0
-糊涂 : 5.0
-清静 : 1.0
-困苦 : 1.0
-Drake : 3.0
-稀 : 6.0
-威 : 3.0
-原始 : 9.0
-可怜 : 9.0
-懦弱 : 2.0
-娇 : 23.0
-Male : 1.0
-忐忑 : 3.0
-可怕 : 53.0
-严厉 : 4.0
-卖力 : 4.0
-如痴如醉 : 1.0
-恶毒 : 8.0
-心酸 : 21.0
-UNmistakABLE : 1.0
-exclusive : 1.0
-Best : 1.0
-幸福 : 97.0
-稠 : 3.0
-恍惚 : 5.0
-不可或缺 : 1.0
-暗淡 : 1.0
-可耻 : 4.0
-横 : 1.0
-无理 : 1.0
-欢愉 : 1.0
-平稳 : 1.0
-好吃 : 92.0
-长远 : 3.0
-稳 : 10.0
-慎重 : 2.0
-谨慎 : 4.0
-没劲 : 1.0
-薄弱 : 2.0
-一样 : 2.0
-害羞 : 11.0
-低俗 : 3.0
-悲哀 : 13.0
-便利 : 6.0
-心花怒放 : 1.0
-愚蠢 : 5.0
-好听 : 90.0
-妥当 : 1.0
-苦恼 : 1.0
-做作 : 2.0
-痒痒 : 5.0
-丑陋 : 2.0
-可恨 : 1.0
-大度 : 4.0
-烦躁 : 3.0
-乖巧 : 3.0
-橙 : 6.0
-仗义 : 2.0
-善解人意 : 1.0
-ST : 1.0
-低迷 : 1.0
-精彩 : 111.0
-明亮 : 6.0
-可恶 : 12.0
-明细 : 1.0
-穷 : 40.0
-仔细 : 13.0
-空 : 27.0
-切实 : 1.0
-团团转 : 1.0
-沉痛 : 1.0
-太平 : 2.0
-沉闷 : 1.0
-骄 : 4.0
-窄 : 2.0
-著名 : 30.0
-公平 : 21.0
-矛盾 : 11.0
-骏 : 3.0
-标准 : 1.0
-white : 1.0
-烦人 : 1.0
-媚 : 2.0
-骚 : 26.0
-恐惧 : 4.0
-简易 : 5.0
-精美 : 15.0
-无味 : 3.0
-欣慰 : 3.0
-Cute : 1.0
-优雅 : 2.0
-瘦小 : 1.0
-固执 : 1.0
-可悲 : 12.0
-强力 : 2.0
-Free : 2.0
-精辟 : 7.0
-仁慈 : 1.0
-Fantastic : 1.0
-心切 : 1.0
-空旷 : 1.0
-强劲 : 1.0
-空闲 : 1.0
-Long : 3.0
-快活 : 2.0
-安生 : 6.0
-物是人非 : 1.0
-名贵 : 1.0
-周到 : 2.0
-可惜 : 4.0
-精心 : 8.0
-正规 : 5.0
-胖胖 : 4.0
-苛刻 : 1.0
-高 : 26.0
-GLOBAL : 2.0
-WO : 2.0
-生气 : 2.0
-麻利 : 1.0
-Sinister : 1.0
-连续 : 14.0
-危急 : 4.0
-竞 : 4.0
-礼貌 : 1.0
-多情 : 1.0
-镇静 : 1.0
-爱国 : 36.0
-激动 : 26.0
-吃亏 : 6.0
-朴实 : 4.0
-赤诚 : 2.0
-嫩 : 18.0
-英俊 : 2.0
-坚固 : 5.0
-竭 : 2.0
-白净 : 2.0
-恐慌 : 3.0
-不可思议 : 8.0
-消极 : 2.0
-健康 : 54.0
-Sorry : 1.0
-委婉 : 1.0
-满足 : 2.0
-随便 : 22.0
-迟缓 : 1.0
-老泪纵横 : 1.0
-年复一年 : 3.0
-属实 : 1.0
-过分 : 10.0
-郑重 : 2.0
-统一 : 1.0
-惨不忍睹 : 6.0
-权威 : 2.0
-友善 : 1.0
-幼稚 : 2.0
-诚实 : 2.0
-调皮 : 5.0
-greater : 1.0
-直率 : 1.0
-公开 : 1.0
-Lob : 1.0
-次 : 2.0
-欢 : 1.0
-自信 : 7.0
-笨 : 9.0
-柔顺 : 1.0
-尽心 : 1.0
-空虚 : 2.0
-光荣 : 3.0
-有愧 : 1.0
-MAYDAY : 1.0
-字正腔圆 : 1.0
-热泪盈眶 : 10.0
-欹 : 1.0
-艰辛 : 4.0
-鬼 : 1.0
-平等 : 8.0
-直接 : 10.0
-贴切 : 1.0
-诙谐 : 1.0
-歉 : 2.0
-剧烈 : 3.0
-厚实 : 1.0
-和乐 : 1.0
-泪流满面 : 4.0
-生鲜 : 1.0
-守旧 : 1.0
-魔 : 112.0
-沙哑 : 2.0
-穷困 : 3.0
-Nice : 1.0
-仓促 : 1.0
-Sleepy : 1.0
-正 : 12.0
-完整 : 1.0
-丰厚 : 9.0
-孤 : 9.0
-悲痛 : 1.0
-别样 : 1.0
-及时 : 9.0
-武 : 1.0
-持久 : 4.0
-灵活 : 6.0
-歪 : 9.0
-富足 : 1.0
-great : 1.0
-和平 : 3.0
-勇敢 : 2.0
-细腻 : 7.0
-死 : 14.0
-积极 : 13.0
-孽 : 1.0
-平安 : 24.0
-粗制滥造 : 1.0
-稀疏 : 2.0
-简 : 10.0
-宁 : 10.0
-Beautiful : 3.0
-鬼鬼祟祟 : 1.0
-开窍 : 1.0
-安 : 13.0
-Parallel : 1.0
-残 : 26.0
-豁达 : 2.0
-温和 : 9.0
-稳当 : 2.0
-明快 : 1.0
-便捷 : 1.0
-烦心 : 2.0
-妖艳 : 9.0
-微薄 : 6.0
-宜 : 6.0
-实 : 24.0
-水落石出 : 2.0
-美好 : 90.0
-繁重 : 1.0
-神奇 : 76.0
-Tortilla : 1.0
-宽心 : 1.0
-炫目 : 1.0
-important : 1.0
-Missing : 1.0
-尖锐 : 6.0
-老实 : 4.0
-通顺 : 1.0
-省力 : 3.0
-daily : 1.0
-科学 : 5.0
-漫长 : 7.0
-宽 : 23.0
-宿 : 1.0
-寂 : 1.0
-美妙 : 5.0
-主动 : 2.0
-坚韧 : 3.0
-密 : 2.0
-适宜 : 1.0
-富 : 13.0
-快乐 : 189.0
-霸气 : 19.0
-划算 : 5.0
-烦忧 : 1.0
-薄情 : 3.0
-毒 : 1.0
-寒 : 13.0
-不行 : 55.0
-糟糕 : 9.0
-不经意 : 8.0
-诚 : 3.0
-沉着 : 1.0
-坦白 : 1.0
-寞 : 2.0
-Visual : 1.0
-拗口 : 1.0
-细致 : 4.0
-寡 : 1.0
-目瞪口呆 : 2.0
-详 : 8.0
-迅猛 : 1.0
-荒唐 : 2.0
-气势汹汹 : 1.0
-油腻 : 3.0
-Commercial : 1.0
-偏执 : 1.0
-宁静 : 5.0
-清楚 : 45.0
-对 : 4.0
-谦卑 : 3.0
-shiny : 1.0
-美观 : 2.0
-沉静 : 4.0
-值钱 : 1.0
-bad : 2.0
-遥远 : 10.0
-贪吃 : 2.0
-尊 : 1.0
-Black : 4.0
-齐全 : 3.0
-正儿八经 : 4.0
-小 : 32.0
-晶莹 : 1.0
-谐 : 4.0
-少 : 34.0
-隆重 : 1.0
-年少 : 4.0
-忧伤 : 1.0
-尖 : 3.0
-honest : 1.0
-健忘 : 3.0
-顺畅 : 4.0
-相同 : 11.0
-EASY : 1.0
-可爱 : 208.0
-ai : 1.0
-神秘 : 3.0
-受用 : 2.0
-短暂 : 3.0
-Sunny : 1.0
-迅捷 : 1.0
-勤劳 : 2.0
-刺眼 : 1.0
-icon : 2.0
-有利 : 5.0
-汐 : 2.0
-高尚 : 5.0
-酥脆 : 6.0
-遗憾 : 16.0
-烦恼 : 3.0
-national : 1.0
-熟稔 : 1.0
-耐穿 : 1.0
-朴素 : 1.0
-诡谲 : 1.0
-污 : 31.0
-简短 : 2.0
-Liberal : 1.0
-豪 : 33.0
-公道 : 12.0
-随意 : 8.0
-秀丽 : 2.0
-狡猾 : 1.0
-大胆 : 7.0
-Better : 1.0
-危重 : 3.0
-热心 : 3.0
-害臊 : 1.0
-严明 : 2.0
-残暴 : 4.0
-冷静 : 7.0
-费劲 : 4.0
-粉 : 39.0
-沉 : 1.0
-中用 : 1.0
-费力 : 2.0
-喜人 : 1.0
-合群 : 2.0
-粗 : 18.0
-自然 : 8.0
-项庄舞剑 : 1.0
-鲜 : 11.0
-ee : 2.0
-刻板 : 1.0
-深沉 : 2.0
-押韵 : 1.0
-具体 : 22.0
-vigorous : 1.0
-不够 : 20.0
-Dual : 1.0
-精 : 52.0
-有力 : 4.0
-招摇 : 1.0
-黯淡 : 1.0
-大意 : 1.0
-Mayday : 2.0
-单薄 : 1.0
-shy : 1.0
-有劲 : 2.0
-vocal : 1.0
-滑腻 : 1.0
-独到 : 2.0
-苦苦 : 1.0
-拥挤 : 4.0
-惟妙惟肖 : 2.0
-孤寂 : 1.0
-嚣张 : 11.0
-unfair : 1.0
-糙 : 9.0
-潮湿 : 2.0
-奥妙 : 1.0
-糟 : 5.0
-新鲜 : 16.0
-出神入化 : 4.0
-秘密 : 8.0
-鲜明 : 4.0
-嬉皮笑脸 : 1.0
-富强 : 1.0
-无益 : 2.0
-惨烈 : 5.0
-恰当 : 2.0
-糯 : 11.0
-合适 : 26.0
-粗暴 : 4.0
-SOLE : 1.0
-精致 : 6.0
-准时 : 1.0
-安静 : 30.0
-泽 : 4.0
-iG : 1.0
-委屈 : 5.0
-洁 : 9.0
-独特 : 12.0
-thankful : 2.0
-一往无前 : 1.0
-流利 : 3.0
-稀有 : 1.0
-洋 : 16.0
-吓人 : 11.0
-热火 : 1.0
-不好 : 68.0
-能干 : 1.0
-低劣 : 2.0
-对称 : 1.0
-素 : 18.0
-繁华 : 5.0
-贤 : 3.0
-好看 : 111.0
-绚烂 : 1.0
-紧 : 8.0
-不好意思 : 6.0
-洪 : 1.0
-Lustre : 1.0
-贫 : 3.0
-紫 : 15.0
-吃惊 : 113.0
-累 : 56.0
-Perfect : 1.0
-慈善 : 5.0
-贱 : 42.0
-不妥 : 2.0
-自重 : 2.0
-贵 : 34.0
-Yellow : 2.0
-接二连三 : 1.0
-谦和 : 4.0
-高洁 : 1.0
-活 : 27.0
-听话 : 9.0
-零散 : 1.0
-苍白 : 4.0
-Faded : 7.0
-实用 : 43.0
-轻浮 : 1.0
-郁闷 : 9.0
-浅 : 3.0
-凶恶 : 1.0
-繁荣 : 2.0
-高贵 : 7.0
-浑 : 2.0
-淡漠 : 1.0
-浓 : 8.0
-赘 : 5.0
-Rives : 1.0
-面目全非 : 2.0
-灰心 : 1.0
-潦倒 : 5.0
-善良 : 5.0
-赤 : 5.0
-浩 : 3.0
-受不了 : 15.0
-热烈 : 6.0
-热情 : 9.0
-混沌 : 1.0
-complete : 1.0
-清高 : 1.0
-温暖 : 28.0
-freestyle : 1.0
-NEW : 5.0
-high : 3.0
-自爱 : 1.0
-Real : 1.0
-匆忙 : 1.0
-sushi : 1.0
-柔嫩 : 1.0
-哭笑不得 : 2.0
-优秀 : 65.0
-趣 : 10.0
-理想 : 31.0
-闲散 : 1.0
-管用 : 5.0
-健全 : 1.0
-涩 : 10.0
-惬意 : 5.0
-外向 : 1.0
-火冒三丈 : 1.0
-迷人 : 7.0
-软弱 : 5.0
-足 : 36.0
-恼人 : 2.0
-忧郁 : 5.0
-精彩绝伦 : 1.0
-高涨 : 1.0
-浓郁 : 1.0
-困难 : 7.0
-瘦弱 : 1.0
-平淡 : 6.0
-跋扈 : 2.0
-美若天仙 : 1.0
-惭愧 : 2.0
-浓烈 : 2.0
-savage : 1.0
-轻巧 : 2.0
-可口 : 6.0
-省钱 : 7.0
-Duo : 1.0
-繁琐 : 1.0
-现实 : 12.0
-狰狞 : 1.0
-娴熟 : 1.0
-伟大 : 40.0
-淡 : 17.0
-工 : 13.0
-英勇 : 1.0
-辽阔 : 2.0
-左 : 5.0
-巧 : 8.0
-巨 : 26.0
-惨重 : 1.0
-淫 : 8.0
-差 : 67.0
-Crayon : 1.0
-光明 : 2.0
-忧愁 : 1.0
-深 : 59.0
-十之八九 : 1.0
-含糊 : 1.0
-失意 : 1.0
-片面 : 1.0
-稳重 : 3.0
-coco : 1.0
-混 : 7.0
-Christian : 1.0
-常用 : 7.0
-甜美 : 7.0
-恶心 : 59.0
-满头大汗 : 1.0
-易懂 : 3.0
-清 : 54.0
-直白 : 2.0
-无知 : 2.0
-高深 : 2.0
-fucking : 1.0
-顽固 : 3.0
-顺眼 : 4.0
-丑 : 35.0
-有理 : 3.0
-Daily : 2.0
-专 : 2.0
-实时 : 4.0
-惶恐 : 2.0
-惊喜 : 33.0
-奇幻 : 11.0
-风流 : 5.0
-严 : 1.0
-有名 : 2.0
-深深 : 7.0
-平常 : 11.0
-丰 : 21.0
-聪慧 : 1.0
-盲目 : 1.0
-难解难分 : 1.0
-传神 : 1.0
-渴 : 3.0
-广泛 : 2.0
-渺 : 1.0
-主 : 92.0
-丽 : 11.0
-鸿 : 3.0
-繁 : 2.0
-暴躁 : 8.0
-庞大 : 4.0
-贫瘠 : 1.0
-久 : 60.0
-婉转 : 1.0
-乌 : 3.0
-Simple : 1.0
-乏 : 3.0
-乐 : 13.0
-好样 : 5.0
-乔 : 15.0
-sh : 2.0
-乖 : 19.0
-Golden : 1.0
-纯真 : 1.0
-艰苦 : 3.0
-纯朴 : 1.0
-淋漓尽致 : 2.0
-实际 : 5.0
-锋利 : 1.0
-悲壮 : 1.0
-彻底 : 22.0
-乱 : 22.0
-干 : 2.0
-逼真 : 4.0
-平 : 37.0
-Positive : 1.0
-基本 : 31.0
-幼 : 3.0
-幽 : 1.0
-广 : 29.0
-湿 : 31.0
-喜悦 : 1.0
-躁 : 2.0
-年幼 : 4.0
-庄 : 7.0
-风趣 : 4.0
-费钱 : 1.0
-不端 : 1.0
-朦胧 : 1.0
-麻痹 : 1.0
-奇异 : 15.0
-不规则 : 2.0
-耿直 : 4.0
-废 : 4.0
-壮观 : 2.0
-红 : 133.0
-丰盛 : 2.0
-争气 : 1.0
-帅气 : 20.0
-低落 : 3.0
-Lucky : 1.0
-亮 : 16.0
-平庸 : 3.0
-特出 : 1.0
-纯 : 26.0
-香甜 : 1.0
-remarkable : 2.0
-亲 : 16.0
-Broccoli : 1.0
-抱歉 : 3.0
-热切 : 2.0
-自卑 : 13.0
-纷 : 2.0
-康 : 10.0
-Vocal : 1.0
-崇高 : 2.0
-Internet : 1.0
-麻 : 3.0
-最新 : 70.0
-严格 : 10.0
-仁 : 24.0
-黄 : 25.0
-有钱 : 1.0
-真切 : 2.0
-温柔 : 9.0
-细 : 7.0
-懂行 : 1.0
-沉稳 : 4.0
-糟心 : 1.0
-pure : 1.0
-黏 : 5.0
-滑 : 3.0
-黑 : 187.0
-惊险 : 4.0
-欣喜 : 1.0
-睿智 : 5.0
-浓重 : 3.0
-执著 : 22.0
-高级 : 13.0
-特别 : 26.0
-绝 : 14.0
-gay : 25.0
-浮躁 : 6.0
-善变 : 2.0
-满 : 71.0
-恩爱 : 17.0
-脆弱 : 6.0
-滥 : 1.0
-谦虚 : 2.0
-老练 : 2.0
-慵懒 : 2.0
-吃力 : 2.0
-野蛮 : 1.0
-火爆 : 8.0
-适度 : 2.0
-不孝 : 2.0
-心虚 : 3.0
-绿 : 27.0
-破烂 : 2.0
-言简意赅 : 1.0
-异 : 13.0
-Mr. : 2.0
-湿润 : 2.0
-密切 : 2.0
-浪漫 : 26.0
-狂妄 : 1.0
-缓 : 1.0
-不安 : 3.0
-原汁原味 : 2.0
-众 : 21.0
-友好 : 8.0
-优 : 47.0
-质朴 : 4.0
-过时 : 3.0
-卫生 : 16.0
-伟 : 13.0
-安好 : 12.0
-拿手 : 5.0
-弥 : 2.0
-地道 : 2.0
-伪 : 20.0
-smartest : 1.0
-晴朗 : 1.0
-弱 : 25.0
-purr : 3.0
-有用 : 5.0
-贫困 : 16.0
-正常 : 43.0
-诚心 : 4.0
-强 : 137.0
-摩登 : 1.0
-力所能及 : 2.0
-实在 : 3.0
-狼狈 : 3.0
-过瘾 : 7.0
-稀奇 : 3.0
-吉利 : 2.0
-被动 : 3.0
-低 : 99.0
-漏洞百出 : 1.0
-齐 : 12.0
-诡异 : 5.0
-得人心 : 5.0
-落寞 : 2.0
-有效 : 25.0
-新式 : 1.0
-罕 : 1.0
-诚信 : 2.0
-混乱 : 1.0
-腼腆 : 1.0
-悲观 : 6.0
-好奇 : 19.0
-准确 : 2.0
-杂乱 : 4.0
-无奈 : 3.0
-cool : 3.0
-头头是道 : 1.0
-迫切 : 1.0
-软 : 32.0
-虚空 : 1.0
-彰 : 5.0
-nono : 1.0
-佳 : 21.0
-宏大 : 2.0
-短视 : 1.0
-宽厚 : 2.0
-Chinese : 3.0
-要面子 : 1.0
-灵光 : 1.0
-苗条 : 1.0
-完好 : 1.0
-轻 : 8.0
-异常 : 7.0
-踏实 : 1.0
-粗大 : 2.0
-适当 : 5.0
-羁 : 4.0
-轻微 : 4.0
-侃 : 2.0
-困顿 : 1.0
-不对 : 25.0
-坚定 : 2.0
-偶然 : 1.0
-拘束 : 2.0
-Larger : 1.0
-年轻 : 78.0
-坚实 : 1.0
-美 : 110.0
-徐 : 1.0
-清洁 : 1.0
-贪杯 : 2.0
-用心 : 4.0
-凶狠 : 1.0
-微妙 : 3.0
-坚毅 : 1.0
-辣 : 18.0
-犀利 : 4.0
-迷惑 : 1.0
-微 : 11730.0
-详细 : 22.0
-出色 : 11.0
-reborn : 1.0
-蹩脚 : 1.0
-轻快 : 3.0
-正经 : 12.0
-安稳 : 2.0
-人均 : 1.0
-迅 : 18.0
-奇怪 : 6.0
-诚恳 : 2.0
-清贫 : 1.0
-为难 : 3.0
-俏 : 2.0
-合拍 : 3.0
-迷惘 : 1.0
-近 : 47.0
-老辣 : 3.0
-暴怒 : 2.0
-真挚 : 4.0
-ready : 1.0
-俗 : 9.0
-忙 : 9.0
-古朴 : 1.0
-少见 : 3.0
-远 : 28.0
-麻木 : 1.0
-复杂 : 29.0
-迟 : 3.0
-放浪 : 2.0
-气馁 : 1.0
-翠 : 3.0
-Incomplete : 1.0
-忠 : 7.0
-漂亮 : 73.0
-舒心 : 2.0
-诧异 : 2.0
-认真 : 29.0
-快 : 483.0
-寒酸 : 1.0
-macau : 1.0
-凶猛 : 1.0
-可嘉 : 2.0
-厚道 : 3.0
-幽默 : 37.0
-无地自容 : 1.0
-Welcome : 2.0
-静谧 : 1.0
-恳切 : 1.0
+真=polar:1, frequency:465
+抱歉=polar:-1, frequency:462
+高=polar:1, frequency:444
+新=polar:1, frequency:431
+快乐=polar:1, frequency:256
+长=polar:1, frequency:253
+简单=polar:-1, frequency:210
+可爱=polar:1, frequency:208
+黑=polar:-1, frequency:187
+全=polar:1, frequency:181
+难=polar:-1, frequency:174
+努力=polar:1, frequency:166
+热门=polar:1, frequency:165
+幸福=polar:1, frequency:163
+厉害=polar:-1, frequency:153
+健康=polar:1, frequency:148
+开心=polar:1, frequency:146
+红=polar:1, frequency:133
+热=polar:1, frequency:126
+秀=polar:1, frequency:121
+傻=polar:-1, frequency:118
+美=polar:1, frequency:113
+吃惊=polar:-1, frequency:113
+精彩=polar:1, frequency:111
+好看=polar:1, frequency:111
+成功=polar:1, frequency:109
+冷=polar:-1, frequency:106
+辣=polar:-1, frequency:105
+棒=polar:1, frequency:104
+低=polar:-1, frequency:102
+瘦=polar:-1, frequency:99
+好吃=polar:1, frequency:92
+美好=polar:1, frequency:90
+好听=polar:1, frequency:90
+甜=polar:1, frequency:87
+真实=polar:1, frequency:84
+坏=polar:-1, frequency:83
+假=polar:-1, frequency:77
+完美=polar:1, frequency:76
+幽默=polar:1, frequency:75
+不错=polar:1, frequency:75
+漂亮=polar:1, frequency:73
+最新=polar:1, frequency:70
+不好=polar:-1, frequency:69
+差=polar:-1, frequency:67
+正式=polar:1, frequency:66
+平安=polar:1, frequency:66
+完整=polar:1, frequency:65
+优秀=polar:1, frequency:65
+幸运=polar:1, frequency:64
+恶心=polar:-1, frequency:61
+深=polar:1, frequency:59
+正确=polar:1, frequency:59
+确实=polar:1, frequency:58
+精=polar:1, frequency:56
+乐=polar:1, frequency:56
+不行=polar:-1, frequency:55
+清=polar:1, frequency:54
+可怕=polar:-1, frequency:53
+痛=polar:-1, frequency:52
+虐=polar:-1, frequency:51
+尴尬=polar:-1, frequency:51
+自由=polar:1, frequency:50
+疯狂=polar:-1, frequency:50
+温暖=polar:1, frequency:50
+惊喜=polar:1, frequency:50
+准=polar:1, frequency:48
+优=polar:1, frequency:47
+香=polar:1, frequency:46
+美丽=polar:1, frequency:46
+好玩=polar:1, frequency:46
+酸=polar:-1, frequency:45
+轻松=polar:1, frequency:45
+成熟=polar:1, frequency:45
+恐怖=polar:-1, frequency:45
+强大=polar:1, frequency:45
+详细=polar:1, frequency:44
+爽=polar:1, frequency:43
+暴=polar:-1, frequency:43
+实用=polar:1, frequency:43
+实=polar:1, frequency:43
+温柔=polar:1, frequency:42
+孤独=polar:-1, frequency:42
+穷=polar:-1, frequency:40
+欢乐=polar:1, frequency:40
+痛苦=polar:-1, frequency:39
+烦恼=polar:-1, frequency:39
+无聊=polar:-1, frequency:38
+意外=polar:-1, frequency:38
+静=polar:1, frequency:37
+遗憾=polar:-1, frequency:37
+独立=polar:1, frequency:37
+平=polar:1, frequency:37
+舒服=polar:1, frequency:36
+爱国=polar:1, frequency:36
+朗=polar:1, frequency:36
+散=polar:-1, frequency:36
+小心=polar:1, frequency:36
+辛苦=polar:-1, frequency:35
+善良=polar:1, frequency:35
+丑=polar:-1, frequency:35
+贵=polar:-1, frequency:34
+浪漫=polar:1, frequency:34
+果断=polar:1, frequency:34
+顺利=polar:1, frequency:33
+有趣=polar:1, frequency:33
+易=polar:1, frequency:33
+公开=polar:1, frequency:33
+亲爱=polar:1, frequency:33
+骄傲=polar:-1, frequency:32
+锦=polar:1, frequency:31
+理想=polar:1, frequency:31
+烂=polar:-1, frequency:31
+清新=polar:1, frequency:31
+污=polar:-1, frequency:31
+懵=polar:-1, frequency:31
+干净=polar:1, frequency:31
+失望=polar:-1, frequency:31
+著名=polar:1, frequency:30
+聪明=polar:1, frequency:30
+有意思=polar:1, frequency:30
+安静=polar:1, frequency:30
+熟=polar:1, frequency:29
+旧=polar:-1, frequency:29
+懒=polar:-1, frequency:29
+悲伤=polar:-1, frequency:29
+任性=polar:1, frequency:29
+随便=polar:-1, frequency:28
+蠢=polar:-1, frequency:28
+荒=polar:-1, frequency:28
+神秘=polar:-1, frequency:28
+激动=polar:-1, frequency:28
+民主=polar:1, frequency:28
+智=polar:1, frequency:28
+寂寞=polar:-1, frequency:28
+空=polar:-1, frequency:27
+私=polar:-1, frequency:27
+残=polar:-1, frequency:27
+困难=polar:-1, frequency:27
+骚=polar:-1, frequency:26
+陌生=polar:-1, frequency:26
+神=polar:1, frequency:26
+特别=polar:1, frequency:26
+灵=polar:1, frequency:26
+合适=polar:1, frequency:26
+麻烦=polar:-1, frequency:25
+难过=polar:-1, frequency:25
+脏=polar:-1, frequency:25
+紧急=polar:-1, frequency:25
+科学=polar:1, frequency:25
+疼=polar:1, frequency:25
+烦=polar:-1, frequency:25
+弱=polar:-1, frequency:25
+危险=polar:-1, frequency:25
+艳=polar:1, frequency:24
+碎=polar:-1, frequency:24
+激烈=polar:-1, frequency:24
+深刻=polar:1, frequency:24
+恶=polar:-1, frequency:24
+凉=polar:-1, frequency:24
+公平=polar:1, frequency:24
+仁=polar:1, frequency:24
+黑暗=polar:-1, frequency:23
+牛=polar:-1, frequency:23
+感人=polar:1, frequency:23
+宽=polar:1, frequency:23
+伤心=polar:-1, frequency:23
+珍贵=polar:1, frequency:22
+执著=polar:1, frequency:22
+愉快=polar:1, frequency:22
+宝贵=polar:1, frequency:22
+乱=polar:-1, frequency:22
+莽=polar:-1, frequency:21
+热情=polar:1, frequency:21
+明白=polar:1, frequency:21
+心酸=polar:-1, frequency:21
+家破人亡=polar:-1, frequency:21
+佳=polar:1, frequency:21
+丰=polar:1, frequency:21
+悲=polar:-1, frequency:20
+微小=polar:-1, frequency:20
+帅气=polar:1, frequency:20
+善=polar:1, frequency:20
+勇敢=polar:1, frequency:20
+便宜=polar:1, frequency:20
+伪=polar:-1, frequency:20
+霸气=polar:-1, frequency:19
+贫困=polar:-1, frequency:19
+温馨=polar:1, frequency:19
+淡=polar:-1, frequency:19
+平凡=polar:-1, frequency:19
+好奇=polar:1, frequency:19
+乖=polar:1, frequency:19
+鲜=polar:1, frequency:18
+脆=polar:1, frequency:18
+紧张=polar:-1, frequency:18
+着急=polar:-1, frequency:18
+甜蜜=polar:1, frequency:18
+慎=polar:1, frequency:18
+嫩=polar:-1, frequency:18
+严肃=polar:1, frequency:18
+老实=polar:1, frequency:17
+灿烂=polar:1, frequency:17
+沉默=polar:-1, frequency:17
+森=polar:-1, frequency:17
+机智=polar:1, frequency:17
+明=polar:1, frequency:17
+感动=polar:1, frequency:17
+恩爱=polar:1, frequency:17
+坚强=polar:1, frequency:17
+主动=polar:1, frequency:17
+知名=polar:1, frequency:16
+残酷=polar:-1, frequency:16
+新鲜=polar:1, frequency:16
+委屈=polar:-1, frequency:16
+圣=polar:1, frequency:16
+卫生=polar:1, frequency:16
+亮=polar:1, frequency:16
+不幸=polar:-1, frequency:16
+雅=polar:1, frequency:15
+阴=polar:-1, frequency:15
+辉煌=polar:1, frequency:15
+豪华=polar:1, frequency:15
+落后=polar:-1, frequency:15
+莫名其妙=polar:-1, frequency:15
+荣耀=polar:1, frequency:15
+艰难=polar:-1, frequency:15
+自觉=polar:1, frequency:15
+肥=polar:1, frequency:15
+耐心=polar:1, frequency:15
+精美=polar:1, frequency:15
+生气=polar:-1, frequency:15
+清晰=polar:1, frequency:15
+残忍=polar:-1, frequency:15
+惊讶=polar:-1, frequency:15
+悲哀=polar:-1, frequency:15
+廉洁=polar:1, frequency:15
+平静=polar:1, frequency:15
+孤单=polar:-1, frequency:15
+奇异=polar:1, frequency:15
+受不了=polar:-1, frequency:15
+厚=polar:1, frequency:15
+傲=polar:-1, frequency:15
+优雅=polar:1, frequency:15
+酥=polar:-1, frequency:14
+迷茫=polar:-1, frequency:14
+过分=polar:-1, frequency:14
+薄=polar:-1, frequency:14
+自信=polar:1, frequency:14
+死=polar:-1, frequency:14
+正经=polar:1, frequency:14
+懂事=polar:1, frequency:14
+惨=polar:-1, frequency:14
+惊人=polar:-1, frequency:14
+天真=polar:1, frequency:14
+合法=polar:1, frequency:14
+净=polar:1, frequency:14
+仔细=polar:1, frequency:14
+了不起=polar:-1, frequency:14
+高级=polar:1, frequency:13
+错误=polar:-1, frequency:13
+舒适=polar:1, frequency:13
+自卑=polar:1, frequency:13
+绝望=polar:-1, frequency:13
+粗暴=polar:-1, frequency:13
+稳=polar:1, frequency:13
+猥琐=polar:-1, frequency:13
+柔软=polar:1, frequency:13
+无耻=polar:-1, frequency:13
+异=polar:-1, frequency:13
+寒=polar:-1, frequency:13
+富=polar:1, frequency:13
+安=polar:1, frequency:13
+华丽=polar:1, frequency:13
+公道=polar:1, frequency:13
+伟=polar:1, frequency:13
+轻薄=polar:-1, frequency:12
+礼貌=polar:1, frequency:12
+真诚=polar:1, frequency:12
+疲惫=polar:-1, frequency:12
+现实=polar:1, frequency:12
+独特=polar:1, frequency:12
+清醒=polar:1, frequency:12
+涩=polar:-1, frequency:12
+正=polar:1, frequency:12
+杰=polar:1, frequency:12
+无奈=polar:-1, frequency:12
+敏感=polar:1, frequency:12
+抑郁=polar:-1, frequency:12
+平衡=polar:1, frequency:12
+安逸=polar:1, frequency:12
+安好=polar:1, frequency:12
+可悲=polar:-1, frequency:12
+可恶=polar:-1, frequency:12
+健=polar:1, frequency:12
+丧心病狂=polar:-1, frequency:12
+一本正经=polar:1, frequency:12
+阔=polar:1, frequency:11
+贴心=polar:1, frequency:11
+贫穷=polar:-1, frequency:11
+秘密=polar:-1, frequency:11
+矛盾=polar:-1, frequency:11
+生动=polar:1, frequency:11
+犹豫=polar:-1, frequency:11
+暗=polar:-1, frequency:11
+文明=polar:1, frequency:11
+平等=polar:1, frequency:11
+平常=polar:-1, frequency:11
+害羞=polar:-1, frequency:11
+大胆=polar:1, frequency:11
+坚定=polar:1, frequency:11
+嚣张=polar:-1, frequency:11
+吓人=polar:-1, frequency:11
+吉=polar:1, frequency:11
+友善=polar:1, frequency:11
+动人=polar:1, frequency:11
+出色=polar:1, frequency:11
+公正=polar:1, frequency:11
+光辉=polar:1, frequency:11
+倔强=polar:-1, frequency:11
+丽=polar:1, frequency:11
+霸道=polar:-1, frequency:10
+难受=polar:-1, frequency:10
+趣=polar:1, frequency:10
+自豪=polar:-1, frequency:10
+罕见=polar:1, frequency:10
+简=polar:1, frequency:10
+稳定=polar:1, frequency:10
+神圣=polar:1, frequency:10
+焦虑=polar:-1, frequency:10
+恶劣=polar:-1, frequency:10
+康=polar:1, frequency:10
+妥=polar:1, frequency:10
+如意=polar:1, frequency:10
+奇妙=polar:1, frequency:10
+凶=polar:-1, frequency:10
+乐观=polar:1, frequency:10
+郁闷=polar:-1, frequency:9
+荣=polar:1, frequency:9
+良=polar:1, frequency:9
+腐败=polar:-1, frequency:9
+糟糕=polar:-1, frequency:9
+糙=polar:-1, frequency:9
+笨=polar:-1, frequency:9
+疼痛=polar:-1, frequency:9
+用心=polar:1, frequency:9
+热闹=polar:1, frequency:9
+温和=polar:1, frequency:9
+洁=polar:1, frequency:9
+歪=polar:-1, frequency:9
+旺=polar:1, frequency:9
+慈=polar:1, frequency:9
+恒=polar:1, frequency:9
+恐惧=polar:-1, frequency:9
+异常=polar:-1, frequency:9
+孤=polar:-1, frequency:9
+妖艳=polar:1, frequency:9
+圆满=polar:1, frequency:9
+可笑=polar:1, frequency:9
+可怜=polar:-1, frequency:9
+原始=polar:-1, frequency:9
+出名=polar:1, frequency:9
+冷静=polar:1, frequency:9
+兴奋=polar:1, frequency:9
+俗=polar:-1, frequency:9
+便利=polar:1, frequency:9
+从容=polar:1, frequency:9
+丰厚=polar:1, frequency:9
+丢人=polar:-1, frequency:9
+阴阳怪气=polar:-1, frequency:8
+长久=polar:1, frequency:8
+野蛮=polar:-1, frequency:8
+谨慎=polar:1, frequency:8
+详=polar:1, frequency:8
+虚=polar:-1, frequency:8
+自然=polar:1, frequency:8
+胆小=polar:-1, frequency:8
+细腻=polar:1, frequency:8
+紧=polar:-1, frequency:8
+精辟=polar:1, frequency:8
+精心=polar:1, frequency:8
+短暂=polar:-1, frequency:8
+睿智=polar:1, frequency:8
+甜美=polar:1, frequency:8
+理直气壮=polar:1, frequency:8
+火爆=polar:-1, frequency:8
+渺小=polar:-1, frequency:8
+淫=polar:-1, frequency:8
+沮丧=polar:-1, frequency:8
+模糊=polar:-1, frequency:8
+杂=polar:-1, frequency:8
+木=polar:-1, frequency:8
+曲折=polar:-1, frequency:8
+暴躁=polar:-1, frequency:8
+无知=polar:-1, frequency:8
+无常=polar:-1, frequency:8
+无助=polar:-1, frequency:8
+放肆=polar:-1, frequency:8
+愤怒=polar:-1, frequency:8
+宁静=polar:1, frequency:8
+妙=polar:1, frequency:8
+坦荡=polar:1, frequency:8
+友好=polar:1, frequency:8
+勇=polar:1, frequency:8
+冷漠=polar:-1, frequency:8
+先进=polar:1, frequency:8
+严=polar:-1, frequency:8
+不良=polar:-1, frequency:8
+不利=polar:-1, frequency:8
+高贵=polar:1, frequency:7
+高大=polar:1, frequency:7
+频繁=polar:-1, frequency:7
+长寿=polar:1, frequency:7
+透明=polar:1, frequency:7
+迷人=polar:1, frequency:7
+过瘾=polar:1, frequency:7
+衰老=polar:-1, frequency:7
+虚伪=polar:-1, frequency:7
+脆弱=polar:-1, frequency:7
+简约=polar:1, frequency:7
+灵动=polar:1, frequency:7
+清洁=polar:1, frequency:7
+混=polar:-1, frequency:7
+活泼=polar:1, frequency:7
+洒脱=polar:1, frequency:7
+正直=polar:1, frequency:7
+斜=polar:-1, frequency:7
+懒惰=polar:-1, frequency:7
+慧=polar:1, frequency:7
+慈悲=polar:1, frequency:7
+惋惜=polar:-1, frequency:7
+忠=polar:1, frequency:7
+巧妙=polar:1, frequency:7
+寒冷=polar:-1, frequency:7
+客观=polar:1, frequency:7
+威武=polar:1, frequency:7
+好笑=polar:1, frequency:7
+奢华=polar:-1, frequency:7
+勤奋=polar:1, frequency:7
+准时=polar:1, frequency:7
+关键=polar:1, frequency:7
+伤感=polar:-1, frequency:7
+不易=polar:-1, frequency:7
+鲜美=polar:1, frequency:6
+鲜活=polar:1, frequency:6
+难忘=polar:1, frequency:6
+野=polar:-1, frequency:6
+酥脆=polar:1, frequency:6
+邪=polar:-1, frequency:6
+透彻=polar:1, frequency:6
+贪婪=polar:-1, frequency:6
+诚=polar:1, frequency:6
+虚假=polar:-1, frequency:6
+舒坦=polar:1, frequency:6
+羞涩=polar:-1, frequency:6
+纯净=polar:1, frequency:6
+精致=polar:1, frequency:6
+粗糙=polar:-1, frequency:6
+简易=polar:1, frequency:6
+破=polar:-1, frequency:6
+矮=polar:-1, frequency:6
+知足=polar:1, frequency:6
+玲珑=polar:1, frequency:6
+热烈=polar:1, frequency:6
+灵活=polar:1, frequency:6
+潇洒=polar:1, frequency:6
+清白=polar:1, frequency:6
+混乱=polar:-1, frequency:6
+深厚=polar:1, frequency:6
+浮躁=polar:-1, frequency:6
+气愤=polar:-1, frequency:6
+正当=polar:1, frequency:6
+曼=polar:1, frequency:6
+明亮=polar:1, frequency:6
+敦=polar:1, frequency:6
+敏=polar:1, frequency:6
+愧疚=polar:-1, frequency:6
+愚蠢=polar:-1, frequency:6
+愚=polar:-1, frequency:6
+惨不忍睹=polar:-1, frequency:6
+悲观=polar:-1, frequency:6
+忧郁=polar:-1, frequency:6
+忠实=polar:1, frequency:6
+平淡=polar:-1, frequency:6
+平坦=polar:1, frequency:6
+尖锐=polar:1, frequency:6
+宜=polar:1, frequency:6
+安生=polar:1, frequency:6
+奇怪=polar:-1, frequency:6
+固定=polar:1, frequency:6
+和谐=polar:1, frequency:6
+吃亏=polar:-1, frequency:6
+可贵=polar:1, frequency:6
+可口=polar:1, frequency:6
+发达=polar:1, frequency:6
+友=polar:1, frequency:6
+卑微=polar:-1, frequency:6
+低落=polar:-1, frequency:6
+低级=polar:-1, frequency:6
+优美=polar:1, frequency:6
+严谨=polar:1, frequency:6
+专心=polar:1, frequency:6
+丑陋=polar:-1, frequency:6
+不好意思=polar:-1, frequency:6
+高尚=polar:1, frequency:5
+顽强=polar:1, frequency:5
+雄=polar:1, frequency:5
+险恶=polar:-1, frequency:5
+辛酸=polar:-1, frequency:5
+软弱=polar:-1, frequency:5
+踏实=polar:1, frequency:5
+赤=polar:1, frequency:5
+赘=polar:-1, frequency:5
+贤惠=polar:1, frequency:5
+豁达=polar:1, frequency:5
+调皮=polar:-1, frequency:5
+诡异=polar:-1, frequency:5
+茫然=polar:-1, frequency:5
+艰辛=polar:-1, frequency:5
+腥=polar:-1, frequency:5
+美妙=polar:1, frequency:5
+统一=polar:1, frequency:5
+繁华=polar:1, frequency:5
+糟=polar:-1, frequency:5
+糊涂=polar:-1, frequency:5
+精粹=polar:1, frequency:5
+管用=polar:1, frequency:5
+空灵=polar:1, frequency:5
+秃=polar:-1, frequency:5
+离奇=polar:-1, frequency:5
+确凿=polar:1, frequency:5
+省心=polar:1, frequency:5
+盲目=polar:-1, frequency:5
+痛快=polar:1, frequency:5
+疲劳=polar:-1, frequency:5
+炽热=polar:1, frequency:5
+潦倒=polar:-1, frequency:5
+清澈=polar:1, frequency:5
+淳朴=polar:1, frequency:5
+流畅=polar:1, frequency:5
+沉重=polar:-1, frequency:5
+正规=polar:1, frequency:5
+有用=polar:1, frequency:5
+暧昧=polar:-1, frequency:5
+揪心=polar:-1, frequency:5
+挺拔=polar:1, frequency:5
+拿手=polar:1, frequency:5
+慌乱=polar:-1, frequency:5
+慈善=polar:1, frequency:5
+感伤=polar:-1, frequency:5
+惬意=polar:1, frequency:5
+惨烈=polar:-1, frequency:5
+惆怅=polar:-1, frequency:5
+悲痛=polar:-1, frequency:5
+悲惨=polar:-1, frequency:5
+悦=polar:1, frequency:5
+恍惚=polar:-1, frequency:5
+得人心=polar:1, frequency:5
+彰=polar:1, frequency:5
+左=polar:-1, frequency:5
+实惠=polar:1, frequency:5
+安定=polar:1, frequency:5
+奢侈=polar:-1, frequency:5
+大惊小怪=polar:-1, frequency:5
+壮观=polar:1, frequency:5
+坚固=polar:1, frequency:5
+喜悦=polar:1, frequency:5
+喜=polar:1, frequency:5
+卑贱=polar:-1, frequency:5
+勤=polar:1, frequency:5
+劲=polar:1, frequency:5
+冲动=polar:-1, frequency:5
+保守=polar:-1, frequency:5
+亲切=polar:1, frequency:5
+乱七八糟=polar:-1, frequency:5
+严厉=polar:-1, frequency:5
+不安=polar:-1, frequency:5
+鲜明=polar:1, frequency:4
+骄=polar:-1, frequency:4
+馋=polar:1, frequency:4
+风趣=polar:1, frequency:4
+顺眼=polar:1, frequency:4
+顺畅=polar:1, frequency:4
+隆重=polar:1, frequency:4
+隆=polar:1, frequency:4
+闷热=polar:-1, frequency:4
+销魂=polar:1, frequency:4
+逼真=polar:1, frequency:4
+通俗=polar:1, frequency:4
+逍遥=polar:1, frequency:4
+迷离=polar:-1, frequency:4
+近视=polar:-1, frequency:4
+费劲=polar:-1, frequency:4
+质朴=polar:1, frequency:4
+谦和=polar:1, frequency:4
+谐=polar:1, frequency:4
+诚心=polar:1, frequency:4
+苍白=polar:-1, frequency:4
+艰=polar:-1, frequency:4
+自私=polar:-1, frequency:4
+耿直=polar:1, frequency:4
+耀眼=polar:1, frequency:4
+结巴=polar:-1, frequency:4
+结实=polar:1, frequency:4
+细致=polar:1, frequency:4
+眼熟=polar:1, frequency:4
+真挚=polar:1, frequency:4
+痛心=polar:-1, frequency:4
+疾=polar:-1, frequency:4
+生疏=polar:-1, frequency:4
+甘=polar:1, frequency:4
+瑞=polar:1, frequency:4
+理所当然=polar:1, frequency:4
+猛烈=polar:-1, frequency:4
+猖狂=polar:-1, frequency:4
+狂=polar:-1, frequency:4
+犀利=polar:1, frequency:4
+爽快=polar:1, frequency:4
+清纯=polar:1, frequency:4
+清爽=polar:1, frequency:4
+清凉=polar:1, frequency:4
+消极=polar:-1, frequency:4
+浮华=polar:-1, frequency:4
+泪流满面=polar:-1, frequency:4
+沉静=polar:1, frequency:4
+沉稳=polar:1, frequency:4
+残暴=polar:-1, frequency:4
+欢=polar:1, frequency:4
+杰出=polar:1, frequency:4
+杂乱=polar:-1, frequency:4
+朴实=polar:1, frequency:4
+无能=polar:-1, frequency:4
+敌对=polar:-1, frequency:4
+持久=polar:1, frequency:4
+拥挤=polar:-1, frequency:4
+懈怠=polar:-1, frequency:4
+憾=polar:-1, frequency:4
+憨厚=polar:1, frequency:4
+愚昧=polar:-1, frequency:4
+愉悦=polar:1, frequency:4
+惊险=polar:-1, frequency:4
+惊奇=polar:-1, frequency:4
+恭=polar:1, frequency:4
+急促=polar:-1, frequency:4
+忧伤=polar:-1, frequency:4
+废=polar:-1, frequency:4
+庞大=polar:-1, frequency:4
+客气=polar:1, frequency:4
+安稳=polar:1, frequency:4
+妖娆=polar:1, frequency:4
+大度=polar:1, frequency:4
+多余=polar:-1, frequency:4
+均匀=polar:1, frequency:4
+圆=polar:-1, frequency:4
+嗲=polar:-1, frequency:4
+可耻=polar:-1, frequency:4
+可惜=polar:-1, frequency:4
+可信=polar:1, frequency:4
+危急=polar:-1, frequency:4
+勉强=polar:-1, frequency:4
+出神入化=polar:1, frequency:4
+准确=polar:1, frequency:4
+凄惨=polar:-1, frequency:4
+典型=polar:1, frequency:4
+充足=polar:1, frequency:4
+倒霉=polar:-1, frequency:4
+俏皮=polar:1, frequency:4
+体面=polar:1, frequency:4
+低下=polar:-1, frequency:4
+令人羡慕=polar:1, frequency:4
+亲密=polar:1, frequency:4
+严峻=polar:-1, frequency:4
+不当=polar:-1, frequency:4
+一塌糊涂=polar:-1, frequency:4
+齐全=polar:1, frequency:3
+麻=polar:-1, frequency:3
+鸿=polar:1, frequency:3
+鲜嫩=polar:1, frequency:3
+顽固=polar:-1, frequency:3
+雅致=polar:1, frequency:3
+长远=polar:1, frequency:3
+过时=polar:-1, frequency:3
+辛劳=polar:1, frequency:3
+轻盈=polar:1, frequency:3
+轻快=polar:1, frequency:3
+走投无路=polar:-1, frequency:3
+贫=polar:-1, frequency:3
+贤=polar:1, frequency:3
+谦卑=polar:1, frequency:3
+警惕=polar:-1, frequency:3
+被动=polar:-1, frequency:3
+虔诚=polar:1, frequency:3
+薄情=polar:-1, frequency:3
+荒诞=polar:-1, frequency:3
+茂=polar:1, frequency:3
+英明=polar:1, frequency:3
+苦涩=polar:-1, frequency:3
+艰苦=polar:-1, frequency:3
+耳熟=polar:1, frequency:3
+细心=polar:1, frequency:3
+繁荣=polar:1, frequency:3
+紧凑=polar:1, frequency:3
+精湛=polar:1, frequency:3
+粗犷=polar:1, frequency:3
+穷困=polar:-1, frequency:3
+稳重=polar:1, frequency:3
+稳固=polar:1, frequency:3
+稀奇=polar:1, frequency:3
+省力=polar:1, frequency:3
+直观=polar:1, frequency:3
+疲倦=polar:-1, frequency:3
+畅快=polar:1, frequency:3
+用功=polar:1, frequency:3
+生=polar:-1, frequency:3
+琐碎=polar:-1, frequency:3
+狼狈=polar:-1, frequency:3
+狭隘=polar:-1, frequency:3
+狂热=polar:1, frequency:3
+爽口=polar:1, frequency:3
+焦躁=polar:-1, frequency:3
+热心=polar:1, frequency:3
+烦躁=polar:-1, frequency:3
+烦心=polar:-1, frequency:3
+烁=polar:1, frequency:3
+炎热=polar:-1, frequency:3
+清净=polar:1, frequency:3
+深沉=polar:1, frequency:3
+淘气=polar:-1, frequency:3
+消沉=polar:-1, frequency:3
+浩=polar:1, frequency:3
+浑=polar:-1, frequency:3
+流利=polar:1, frequency:3
+活跃=polar:1, frequency:3
+油腻=polar:-1, frequency:3
+沸沸扬扬=polar:-1, frequency:3
+欣慰=polar:1, frequency:3
+柔=polar:1, frequency:3
+有益=polar:1, frequency:3
+有理=polar:1, frequency:3
+易懂=polar:1, frequency:3
+昌=polar:1, frequency:3
+无情=polar:-1, frequency:3
+无味=polar:-1, frequency:3
+新奇=polar:1, frequency:3
+整齐=polar:1, frequency:3
+抽象=polar:-1, frequency:3
+手软=polar:1, frequency:3
+憔悴=polar:-1, frequency:3
+慵懒=polar:-1, frequency:3
+愤慨=polar:-1, frequency:3
+感慨=polar:-1, frequency:3
+惭愧=polar:-1, frequency:3
+恐慌=polar:-1, frequency:3
+怪异=polar:-1, frequency:3
+忧愁=polar:-1, frequency:3
+忠诚=polar:1, frequency:3
+心虚=polar:-1, frequency:3
+微妙=polar:1, frequency:3
+得意=polar:1, frequency:3
+强悍=polar:1, frequency:3
+强壮=polar:1, frequency:3
+开明=polar:1, frequency:3
+廉价=polar:1, frequency:3
+平庸=polar:-1, frequency:3
+尖=polar:1, frequency:3
+实在=polar:1, frequency:3
+安宁=polar:1, frequency:3
+孝顺=polar:1, frequency:3
+娇气=polar:-1, frequency:3
+威猛=polar:1, frequency:3
+威=polar:-1, frequency:3
+好玩儿=polar:1, frequency:3
+头痛=polar:-1, frequency:3
+大方=polar:1, frequency:3
+大好=polar:1, frequency:3
+壮丽=polar:1, frequency:3
+坦然=polar:1, frequency:3
+坚韧=polar:1, frequency:3
+坎坷=polar:-1, frequency:3
+在理=polar:1, frequency:3
+困惑=polar:-1, frequency:3
+团结=polar:1, frequency:3
+和平=polar:1, frequency:3
+和善=polar:1, frequency:3
+吝啬=polar:-1, frequency:3
+合拍=polar:1, frequency:3
+厚道=polar:1, frequency:3
+压抑=polar:-1, frequency:3
+匀=polar:1, frequency:3
+劳累=polar:-1, frequency:3
+动听=polar:1, frequency:3
+剧烈=polar:-1, frequency:3
+分明=polar:1, frequency:3
+凶猛=polar:-1, frequency:3
+凶残=polar:-1, frequency:3
+冷淡=polar:-1, frequency:3
+兴隆=polar:1, frequency:3
+光荣=polar:1, frequency:3
+傲慢=polar:-1, frequency:3
+健忘=polar:-1, frequency:3
+便当=polar:1, frequency:3
+低俗=polar:-1, frequency:3
+乖巧=polar:1, frequency:3
+乏=polar:-1, frequency:3
+为难=polar:-1, frequency:3
+丢脸=polar:-1, frequency:3
+世故=polar:-1, frequency:3
+丑恶=polar:-1, frequency:3
+不适=polar:-1, frequency:3
+不起眼=polar:-1, frequency:3
+不悦=polar:-1, frequency:3
+不公=polar:-1, frequency:3
+龌龊=polar:-1, frequency:2
+鲜艳=polar:1, frequency:2
+高深=polar:1, frequency:2
+高明=polar:1, frequency:2
+飘逸=polar:1, frequency:2
+顺遂=polar:1, frequency:2
+顺耳=polar:1, frequency:2
+韧=polar:1, frequency:2
+难堪=polar:-1, frequency:2
+陈旧=polar:-1, frequency:2
+阴暗=polar:-1, frequency:2
+郑重=polar:1, frequency:2
+邪恶=polar:-1, frequency:2
+适时=polar:1, frequency:2
+适度=polar:1, frequency:2
+适=polar:1, frequency:2
+迫切=polar:-1, frequency:2
+远大=polar:1, frequency:2
+过头=polar:-1, frequency:2
+较真=polar:1, frequency:2
+轻而易举=polar:1, frequency:2
+轻巧=polar:1, frequency:2
+躁=polar:-1, frequency:2
+跋扈=polar:-1, frequency:2
+赤诚=polar:1, frequency:2
+费力=polar:-1, frequency:2
+谦虚=polar:1, frequency:2
+诱人=polar:1, frequency:2
+诧异=polar:-1, frequency:2
+诚恳=polar:1, frequency:2
+诚实=polar:1, frequency:2
+要紧=polar:1, frequency:2
+衰弱=polar:-1, frequency:2
+虚荣=polar:-1, frequency:2
+虚心=polar:1, frequency:2
+薄弱=polar:-1, frequency:2
+落寞=polar:-1, frequency:2
+莫名=polar:-1, frequency:2
+荣幸=polar:1, frequency:2
+荒唐=polar:-1, frequency:2
+荒凉=polar:-1, frequency:2
+草率=polar:-1, frequency:2
+英勇=polar:1, frequency:2
+英俊=polar:1, frequency:2
+苦恼=polar:-1, frequency:2
+芳=polar:1, frequency:2
+般配=polar:1, frequency:2
+舒心=polar:1, frequency:2
+自重=polar:1, frequency:2
+自如=polar:1, frequency:2
+自在=polar:1, frequency:2
+腼腆=polar:-1, frequency:2
+老练=polar:1, frequency:2
+美观=polar:1, frequency:2
+缺德=polar:-1, frequency:2
+缠绵=polar:1, frequency:2
+缓慢=polar:-1, frequency:2
+纷繁=polar:-1, frequency:2
+纷=polar:-1, frequency:2
+精锐=polar:1, frequency:2
+精明=polar:1, frequency:2
+简短=polar:1, frequency:2
+窄=polar:-1, frequency:2
+空虚=polar:-1, frequency:2
+稳当=polar:1, frequency:2
+稀罕=polar:1, frequency:2
+秀丽=polar:1, frequency:2
+破烂=polar:-1, frequency:2
+真切=polar:1, frequency:2
+目瞪口呆=polar:-1, frequency:2
+白净=polar:1, frequency:2
+癫狂=polar:-1, frequency:2
+甜香=polar:1, frequency:2
+理智=polar:1, frequency:2
+独裁=polar:-1, frequency:2
+牢固=polar:1, frequency:2
+熟练=polar:1, frequency:2
+焦急=polar:-1, frequency:2
+热切=polar:1, frequency:2
+激进=polar:1, frequency:2
+清醇=polar:1, frequency:2
+清贫=polar:-1, frequency:2
+深邃=polar:1, frequency:2
+深远=polar:1, frequency:2
+淋漓尽致=polar:1, frequency:2
+浓烈=polar:-1, frequency:2
+洁净=polar:1, frequency:2
+没意思=polar:-1, frequency:2
+武断=polar:-1, frequency:2
+欢快=polar:1, frequency:2
+次=polar:-1, frequency:2
+横=polar:-1, frequency:2
+柔美=polar:1, frequency:2
+权威=polar:1, frequency:2
+朦胧=polar:-1, frequency:2
+有害=polar:-1, frequency:2
+有名=polar:1, frequency:2
+最低=polar:-1, frequency:2
+暴虐=polar:-1, frequency:2
+暴怒=polar:-1, frequency:2
+明智=polar:1, frequency:2
+旺盛=polar:1, frequency:2
+无辜=polar:1, frequency:2
+无益=polar:-1, frequency:2
+整洁=polar:1, frequency:2
+敏捷=polar:1, frequency:2
+放浪=polar:-1, frequency:2
+支离破碎=polar:-1, frequency:2
+捷=polar:1, frequency:2
+拙=polar:-1, frequency:2
+拘束=polar:-1, frequency:2
+懦弱=polar:-1, frequency:2
+慎重=polar:1, frequency:2
+愕然=polar:-1, frequency:2
+惶恐=polar:-1, frequency:2
+惊慌=polar:-1, frequency:2
+惊恐=polar:-1, frequency:2
+悲怆=polar:-1, frequency:2
+悠长=polar:1, frequency:2
+悠然=polar:1, frequency:2
+悠久=polar:1, frequency:2
+恰当=polar:1, frequency:2
+快活=polar:1, frequency:2
+心软=polar:1, frequency:2
+心寒=polar:-1, frequency:2
+心安=polar:1, frequency:2
+微弱=polar:-1, frequency:2
+强健=polar:1, frequency:2
+弱小=polar:-1, frequency:2
+幼稚=polar:-1, frequency:2
+平和=polar:1, frequency:2
+干=polar:-1, frequency:2
+带劲=polar:1, frequency:2
+崇高=polar:1, frequency:2
+寞=polar:-1, frequency:2
+寂静=polar:1, frequency:2
+宽敞=polar:1, frequency:2
+宽厚=polar:1, frequency:2
+宏大=polar:1, frequency:2
+宏伟=polar:1, frequency:2
+婉转=polar:1, frequency:2
+娇小=polar:1, frequency:2
+好色=polar:-1, frequency:2
+奢=polar:-1, frequency:2
+太平=polar:1, frequency:2
+天昏地暗=polar:-1, frequency:2
+壮=polar:1, frequency:2
+坚=polar:1, frequency:2
+地道=polar:1, frequency:2
+圆润=polar:1, frequency:2
+固执=polar:-1, frequency:2
+喜好=polar:1, frequency:2
+哭笑不得=polar:-1, frequency:2
+哀=polar:-1, frequency:2
+和气=polar:1, frequency:2
+周到=polar:1, frequency:2
+含蓄=polar:1, frequency:2
+吉利=polar:1, frequency:2
+合群=polar:1, frequency:2
+吃力=polar:-1, frequency:2
+可靠=polar:1, frequency:2
+可嘉=polar:1, frequency:2
+受用=polar:1, frequency:2
+卓越=polar:1, frequency:2
+卓=polar:1, frequency:2
+协调=polar:1, frequency:2
+勤劳=polar:1, frequency:2
+刻苦=polar:1, frequency:2
+凌乱=polar:-1, frequency:2
+凄凉=polar:-1, frequency:2
+内疚=polar:-1, frequency:2
+入眼=polar:1, frequency:2
+光芒四射=polar:1, frequency:2
+光明=polar:1, frequency:2
+僵硬=polar:-1, frequency:2
+像样=polar:1, frequency:2
+做作=polar:-1, frequency:2
+偏激=polar:-1, frequency:2
+偏执=polar:-1, frequency:2
+俏=polar:1, frequency:2
+侃=polar:1, frequency:2
+低劣=polar:-1, frequency:2
+优越=polar:1, frequency:2
+亲热=polar:1, frequency:2
+五彩斑斓=polar:1, frequency:2
+丰盛=polar:1, frequency:2
+丧气=polar:-1, frequency:2
+严明=polar:1, frequency:2
+不规则=polar:-1, frequency:2
+不必要=polar:-1, frequency:2
+不妥=polar:-1, frequency:2
+不善=polar:-1, frequency:2
+不便=polar:-1, frequency:2
+齐备=polar:1, frequency:1
+黯淡=polar:-1, frequency:1
+麻痹=polar:-1, frequency:1
+麻木=polar:-1, frequency:1
+麻利=polar:1, frequency:1
+鬼鬼祟祟=polar:-1, frequency:1
+高雅=polar:1, frequency:1
+高洁=polar:1, frequency:1
+高傲=polar:-1, frequency:1
+马虎=polar:-1, frequency:1
+香甜=polar:1, frequency:1
+颓废=polar:-1, frequency:1
+顺手=polar:1, frequency:1
+静谧=polar:1, frequency:1
+零散=polar:-1, frequency:1
+雄厚=polar:1, frequency:1
+难看=polar:-1, frequency:1
+陶=polar:1, frequency:1
+险=polar:-1, frequency:1
+阴险=polar:-1, frequency:1
+阳刚=polar:1, frequency:1
+阳=polar:1, frequency:1
+阔气=polar:-1, frequency:1
+闹=polar:-1, frequency:1
+闷=polar:-1, frequency:1
+闲散=polar:-1, frequency:1
+镇静=polar:1, frequency:1
+锐=polar:1, frequency:1
+锋利=polar:1, frequency:1
+钝=polar:-1, frequency:1
+醒目=polar:1, frequency:1
+醇厚=polar:1, frequency:1
+酸楚=polar:-1, frequency:1
+邋遢=polar:-1, frequency:1
+通顺=polar:1, frequency:1
+逊色=polar:-1, frequency:1
+适宜=polar:1, frequency:1
+迷惑=polar:-1, frequency:1
+迟钝=polar:-1, frequency:1
+迟缓=polar:-1, frequency:1
+迟疑=polar:-1, frequency:1
+迅捷=polar:1, frequency:1
+辛辣=polar:-1, frequency:1
+辛勤=polar:1, frequency:1
+轻飘=polar:-1, frequency:1
+轻浮=polar:-1, frequency:1
+轰轰烈烈=polar:1, frequency:1
+蹩脚=polar:-1, frequency:1
+踊跃=polar:1, frequency:1
+路人皆知=polar:1, frequency:1
+超然=polar:-1, frequency:1
+超凡=polar:1, frequency:1
+费解=polar:-1, frequency:1
+费神=polar:-1, frequency:1
+费事=polar:-1, frequency:1
+贴切=polar:1, frequency:1
+贫瘠=polar:-1, frequency:1
+贫乏=polar:-1, frequency:1
+豪爽=polar:1, frequency:1
+谦逊=polar:1, frequency:1
+诡谲=polar:-1, frequency:1
+诙谐=polar:1, frequency:1
+讲究=polar:1, frequency:1
+言简意赅=polar:1, frequency:1
+解渴=polar:1, frequency:1
+规范=polar:1, frequency:1
+见效=polar:1, frequency:1
+融洽=polar:1, frequency:1
+虚空=polar:-1, frequency:1
+蔚=polar:1, frequency:1
+荒芜=polar:-1, frequency:1
+苛刻=polar:-1, frequency:1
+苗条=polar:1, frequency:1
+苍凉=polar:-1, frequency:1
+艰巨=polar:-1, frequency:1
+舒畅=polar:1, frequency:1
+自由自在=polar:1, frequency:1
+自爱=polar:1, frequency:1
+臊=polar:-1, frequency:1
+臃肿=polar:-1, frequency:1
+膻=polar:-1, frequency:1
+能干=polar:1, frequency:1
+能动=polar:1, frequency:1
+胆怯=polar:-1, frequency:1
+胆大=polar:1, frequency:1
+肯定=polar:1, frequency:1
+肥胖=polar:-1, frequency:1
+肤浅=polar:-1, frequency:1
+肃静=polar:1, frequency:1
+聪颖=polar:1, frequency:1
+聪慧=polar:1, frequency:1
+聒噪=polar:-1, frequency:1
+耐穿=polar:1, frequency:1
+耐用=polar:1, frequency:1
+翻天覆地=polar:1, frequency:1
+美满=polar:1, frequency:1
+缥缈=polar:-1, frequency:1
+缜密=polar:1, frequency:1
+绚烂=polar:1, frequency:1
+细嫩=polar:1, frequency:1
+纯真=polar:1, frequency:1
+纯熟=polar:1, frequency:1
+纯洁=polar:1, frequency:1
+纯朴=polar:1, frequency:1
+繁重=polar:-1, frequency:1
+繁盛=polar:1, frequency:1
+繁琐=polar:-1, frequency:1
+繁杂=polar:-1, frequency:1
+紧要=polar:1, frequency:1
+紧巴=polar:-1, frequency:1
+素洁=polar:1, frequency:1
+系统=polar:1, frequency:1
+糟心=polar:-1, frequency:1
+精细=polar:1, frequency:1
+精巧=polar:1, frequency:1
+精妙=polar:1, frequency:1
+粗鲁=polar:-1, frequency:1
+粗制滥造=polar:-1, frequency:1
+简练=polar:1, frequency:1
+简洁=polar:1, frequency:1
+空洞=polar:-1, frequency:1
+稳妥=polar:1, frequency:1
+稀有=polar:1, frequency:1
+称职=polar:1, frequency:1
+福气=polar:1, frequency:1
+祥瑞=polar:1, frequency:1
+祥和=polar:1, frequency:1
+神速=polar:1, frequency:1
+碍事=polar:1, frequency:1
+确切=polar:1, frequency:1
+破碎=polar:-1, frequency:1
+破旧=polar:-1, frequency:1
+短视=polar:-1, frequency:1
+短促=polar:-1, frequency:1
+矍铄=polar:1, frequency:1
+瞎=polar:-1, frequency:1
+眼花缭乱=polar:1, frequency:1
+眉清目秀=polar:1, frequency:1
+相宜=polar:1, frequency:1
+直率=polar:1, frequency:1
+直爽=polar:1, frequency:1
+直=polar:1, frequency:1
+盛情=polar:1, frequency:1
+盛=polar:1, frequency:1
+瘦弱=polar:-1, frequency:1
+疏=polar:-1, frequency:1
+畅销=polar:1, frequency:1
+畅通=polar:1, frequency:1
+用力=polar:-1, frequency:1
+生硬=polar:-1, frequency:1
+狰狞=polar:-1, frequency:1
+狡黠=polar:-1, frequency:1
+狡诈=polar:-1, frequency:1
+狡猾=polar:-1, frequency:1
+狠毒=polar:-1, frequency:1
+狠心=polar:-1, frequency:1
+狂躁=polar:-1, frequency:1
+狂妄=polar:-1, frequency:1
+特出=polar:1, frequency:1
+片面=polar:-1, frequency:1
+熹微=polar:-1, frequency:1
+熠熠生辉=polar:1, frequency:1
+熟稔=polar:1, frequency:1
+焦灼=polar:-1, frequency:1
+焕=polar:1, frequency:1
+热火=polar:1, frequency:1
+烦忧=polar:-1, frequency:1
+烦人=polar:-1, frequency:1
+炫目=polar:1, frequency:1
+灿=polar:1, frequency:1
+灵验=polar:1, frequency:1
+灵光=polar:1, frequency:1
+灰心=polar:-1, frequency:1
+潦草=polar:-1, frequency:1
+滥=polar:-1, frequency:1
+滑腻=polar:1, frequency:1
+滑稽=polar:1, frequency:1
+渺=polar:-1, frequency:1
+温婉=polar:1, frequency:1
+清高=polar:-1, frequency:1
+清静=polar:1, frequency:1
+清脆=polar:1, frequency:1
+清淡=polar:1, frequency:1
+清亮=polar:1, frequency:1
+混沌=polar:-1, frequency:1
+深奥=polar:1, frequency:1
+深切=polar:1, frequency:1
+淫秽=polar:-1, frequency:1
+淡雅=polar:1, frequency:1
+淡漠=polar:-1, frequency:1
+浩浩荡荡=polar:1, frequency:1
+浓郁=polar:1, frequency:1
+浑厚=polar:1, frequency:1
+浅薄=polar:-1, frequency:1
+洪=polar:1, frequency:1
+没劲=polar:-1, frequency:1
+沉闷=polar:-1, frequency:1
+沉着=polar:1, frequency:1
+沉痛=polar:-1, frequency:1
+汹涌=polar:1, frequency:1
+水泄不通=polar:-1, frequency:1
+气馁=polar:-1, frequency:1
+气势汹汹=polar:-1, frequency:1
+毒=polar:-1, frequency:1
+武=polar:1, frequency:1
+欣喜=polar:1, frequency:1
+欢愉=polar:1, frequency:1
+欢娱=polar:1, frequency:1
+模糊不清=polar:-1, frequency:1
+棘手=polar:-1, frequency:1
+梗直=polar:1, frequency:1
+标准=polar:1, frequency:1
+柔顺=polar:1, frequency:1
+柔情=polar:1, frequency:1
+柔弱=polar:-1, frequency:1
+柔嫩=polar:1, frequency:1
+柔和=polar:1, frequency:1
+枯=polar:-1, frequency:1
+松=polar:1, frequency:1
+朴素=polar:1, frequency:1
+有钱=polar:1, frequency:1
+有血有肉=polar:1, frequency:1
+有滋有味=polar:1, frequency:1
+有条不紊=polar:1, frequency:1
+有愧=polar:-1, frequency:1
+曼妙=polar:1, frequency:1
+暗淡=polar:-1, frequency:1
+暖和=polar:1, frequency:1
+晶莹=polar:1, frequency:1
+晶=polar:1, frequency:1
+晴朗=polar:1, frequency:1
+晕头转向=polar:-1, frequency:1
+昭=polar:1, frequency:1
+明细=polar:1, frequency:1
+明朗=polar:1, frequency:1
+明快=polar:1, frequency:1
+明媚=polar:1, frequency:1
+时髦=polar:1, frequency:1
+无理=polar:-1, frequency:1
+无微不至=polar:1, frequency:1
+无地自容=polar:-1, frequency:1
+新颖=polar:1, frequency:1
+整=polar:1, frequency:1
+散漫=polar:-1, frequency:1
+放荡=polar:-1, frequency:1
+摩登=polar:1, frequency:1
+招摇=polar:-1, frequency:1
+拗口=polar:-1, frequency:1
+抢眼=polar:1, frequency:1
+扎实=polar:1, frequency:1
+手舞足蹈=polar:1, frequency:1
+懂行=polar:1, frequency:1
+慨=polar:1, frequency:1
+慌忙=polar:-1, frequency:1
+慌张=polar:-1, frequency:1
+慈祥=polar:1, frequency:1
+慈爱=polar:1, frequency:1
+惰=polar:-1, frequency:1
+惨重=polar:-1, frequency:1
+情急=polar:-1, frequency:1
+悲苦=polar:-1, frequency:1
+悲恸=polar:-1, frequency:1
+悲壮=polar:1, frequency:1
+悲凉=polar:-1, frequency:1
+悬=polar:-1, frequency:1
+悦耳=polar:1, frequency:1
+悠扬=polar:1, frequency:1
+恻=polar:-1, frequency:1
+恳切=polar:1, frequency:1
+恰到好处=polar:1, frequency:1
+恬静=polar:1, frequency:1
+恢宏=polar:1, frequency:1
+性急=polar:-1, frequency:1
+急躁=polar:-1, frequency:1
+怠惰=polar:-1, frequency:1
+怅惘=polar:-1, frequency:1
+心花怒放=polar:1, frequency:1
+心慌=polar:-1, frequency:1
+心惊胆战=polar:-1, frequency:1
+心急火燎=polar:-1, frequency:1
+心切=polar:-1, frequency:1
+得当=polar:1, frequency:1
+强硬=polar:1, frequency:1
+强劲=polar:1, frequency:1
+张狂=polar:-1, frequency:1
+开阔=polar:1, frequency:1
+开窍=polar:1, frequency:1
+开朗=polar:1, frequency:1
+开化=polar:1, frequency:1
+庸俗=polar:-1, frequency:1
+庄严=polar:1, frequency:1
+广阔=polar:1, frequency:1
+幽雅=polar:1, frequency:1
+幽暗=polar:-1, frequency:1
+幸甚=polar:1, frequency:1
+平稳=polar:1, frequency:1
+干瘪=polar:-1, frequency:1
+干燥=polar:-1, frequency:1
+干净利落=polar:1, frequency:1
+属实=polar:1, frequency:1
+尽心=polar:1, frequency:1
+小气=polar:-1, frequency:1
+小巧玲珑=polar:1, frequency:1
+尊=polar:1, frequency:1
+封建=polar:-1, frequency:1
+对称=polar:1, frequency:1
+寡=polar:-1, frequency:1
+寒酸=polar:-1, frequency:1
+富足=polar:1, frequency:1
+富裕=polar:1, frequency:1
+富有=polar:1, frequency:1
+富强=polar:1, frequency:1
+宽松=polar:1, frequency:1
+宽心=polar:1, frequency:1
+害臊=polar:-1, frequency:1
+审慎=polar:1, frequency:1
+宜人=polar:1, frequency:1
+完好=polar:1, frequency:1
+安谧=polar:1, frequency:1
+安详=polar:1, frequency:1
+安康=polar:1, frequency:1
+安分=polar:1, frequency:1
+守旧=polar:-1, frequency:1
+守信=polar:1, frequency:1
+孤苦=polar:-1, frequency:1
+孤寂=polar:-1, frequency:1
+孤傲=polar:-1, frequency:1
+嬉皮笑脸=polar:-1, frequency:1
+娴熟=polar:1, frequency:1
+娇羞=polar:-1, frequency:1
+娇嫩=polar:-1, frequency:1
+委婉=polar:1, frequency:1
+妩媚=polar:1, frequency:1
+妥当=polar:1, frequency:1
+妥善=polar:1, frequency:1
+如痴如醉=polar:1, frequency:1
+好强=polar:1, frequency:1
+奥妙=polar:1, frequency:1
+头头是道=polar:1, frequency:1
+失意=polar:-1, frequency:1
+天衣无缝=polar:1, frequency:1
+天翻地覆=polar:1, frequency:1
+大意=polar:-1, frequency:1
+大名鼎鼎=polar:1, frequency:1
+多情=polar:1, frequency:1
+外向=polar:1, frequency:1
+壮实=polar:1, frequency:1
+坦诚=polar:1, frequency:1
+坦白=polar:1, frequency:1
+坦率=polar:1, frequency:1
+坚毅=polar:1, frequency:1
+坚忍=polar:1, frequency:1
+坚实=polar:1, frequency:1
+均衡=polar:1, frequency:1
+土=polar:-1, frequency:1
+圆滑=polar:-1, frequency:1
+困顿=polar:-1, frequency:1
+困苦=polar:-1, frequency:1
+困乏=polar:-1, frequency:1
+嘶哑=polar:-1, frequency:1
+喜人=polar:1, frequency:1
+哀愁=polar:-1, frequency:1
+和睦=polar:1, frequency:1
+呆=polar:-1, frequency:1
+含糊=polar:-1, frequency:1
+名闻遐迩=polar:1, frequency:1
+名贵=polar:1, frequency:1
+合算=polar:1, frequency:1
+可行=polar:1, frequency:1
+可恨=polar:-1, frequency:1
+古朴=polar:1, frequency:1
+反感=polar:-1, frequency:1
+厚重=polar:1, frequency:1
+厚实=polar:1, frequency:1
+厉=polar:-1, frequency:1
+单薄=polar:-1, frequency:1
+单一=polar:1, frequency:1
+匆忙=polar:-1, frequency:1
+勇猛=polar:1, frequency:1
+勃勃生机=polar:1, frequency:1
+势利=polar:-1, frequency:1
+动荡=polar:-1, frequency:1
+劣=polar:-1, frequency:1
+刻板=polar:-1, frequency:1
+刺眼=polar:-1, frequency:1
+别致=polar:1, frequency:1
+别扭=polar:-1, frequency:1
+利索=polar:1, frequency:1
+切实=polar:1, frequency:1
+凶狠=polar:-1, frequency:1
+凶恶=polar:-1, frequency:1
+凉爽=polar:1, frequency:1
+凉快=polar:1, frequency:1
+凄=polar:-1, frequency:1
+冷清=polar:-1, frequency:1
+内向=polar:1, frequency:1
+兴盛=polar:1, frequency:1
+兴旺=polar:1, frequency:1
+光彩照人=polar:1, frequency:1
+光彩=polar:1, frequency:1
+充裕=polar:1, frequency:1
+充沛=polar:1, frequency:1
+充实=polar:1, frequency:1
+僻静=polar:-1, frequency:1
+健谈=polar:1, frequency:1
+健硕=polar:1, frequency:1
+健全=polar:1, frequency:1
+值钱=polar:1, frequency:1
+俗气=polar:-1, frequency:1
+便捷=polar:1, frequency:1
+侠义=polar:1, frequency:1
+低迷=polar:-1, frequency:1
+传统=polar:1, frequency:1
+传神=polar:1, frequency:1
+优异=polar:1, frequency:1
+仁慈=polar:1, frequency:1
+亲近=polar:1, frequency:1
+亮丽=polar:1, frequency:1
+争气=polar:1, frequency:1
+了然=polar:1, frequency:1
+中肯=polar:1, frequency:1
+严正=polar:1, frequency:1
+严寒=polar:-1, frequency:1
+不道德=polar:-1, frequency:1
+不赖=polar:1, frequency:1
+不耐烦=polar:-1, frequency:1
+不端=polar:-1, frequency:1
+不省人事=polar:-1, frequency:1
+不济=polar:-1, frequency:1
+不好过=polar:-1, frequency:1
+不大不小=polar:1, frequency:1
+不可收拾=polar:-1, frequency:1
+不可或缺=polar:1, frequency:1
+上进=polar:1, frequency:1
+上口=polar:1, frequency:1
+一贫如洗=polar:-1, frequency:1
+一败涂地=polar:-1, frequency:1
+一往无前=polar:1, frequency:1
