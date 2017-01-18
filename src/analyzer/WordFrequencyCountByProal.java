@@ -43,6 +43,9 @@ public class WordFrequencyCountByProal {
 	Map<String, WordPolarFrequency> nWordsIndexMap = new HashMap<String, WordPolarFrequency>();//存储名词
 	Map<String, WordPolarFrequency> vWordsIndexMap = new HashMap<String, WordPolarFrequency>();//存储动词
 	Map<String, WordPolarFrequency> adjWordsIndexMap = new HashMap<String, WordPolarFrequency>();//存储形容词
+	Map<String, WordPolarFrequency> faultWordsIndexMap = new HashMap<String, WordPolarFrequency>();//存储出错词
+	Map<String, WordPolarFrequency> faultAllWordsIndexMap = new HashMap<String, WordPolarFrequency>();//存储出错词
+	
 	private EmotionDictionary emoDic = new EmotionDictionary();
 	 OutputStreamWriter write;
 	 BufferedWriter writer;
@@ -77,19 +80,90 @@ public class WordFrequencyCountByProal {
 				boolean stopword= Stopwords.isStopword(data);//判断是否是停止词
 				if(flag!=0&&!stopword) {
 					if(nominal.equals("n")){//名词
-						isExist(nWordsIndexMap, data, flag);
+						isExist(nWordsIndexMap, data, flag,"n");
 					}else if(nominal.equals("v")){//动词
-						isExist(vWordsIndexMap, data, flag);
+						isExist(vWordsIndexMap, data, flag,"v");
 					}else if(nominal.equals("a")){//形容词
-						isExist(adjWordsIndexMap, data, flag);
+						isExist(adjWordsIndexMap, data, flag,"adj");
 					}
 				}	
 			}
 		}
-		PrintBySort(adjWordsIndexMap,"./DataFiles/adjFrequency.txt");
-		PrintBySort(nWordsIndexMap,"./DataFiles/nFrequency.txt");
-		PrintBySort(vWordsIndexMap,"./DataFiles/vFrequency.txt");
+		checkRepeatout(faultAllWordsIndexMap);
+		PrintBySort(adjWordsIndexMap,"./DataFiles/adjRemoveRepeat.txt");
+		PrintBySort(nWordsIndexMap,"./DataFiles/nRemoveRepeat.txt");
+		PrintBySort(vWordsIndexMap,"./DataFiles/vRemoveRepeat.txt");
+//		PrintBySort(faultWordsIndexMap, "./DataFiles/faultFrequency.txt");
+		PrintBySort(faultAllWordsIndexMap, "./DataFiles/AllfaultFrequency.txt");
 		closeIOStream();//关闭流
+	}
+	public Map<String, WordPolarFrequency> checkRepeat(Map map){
+		for (String key : nWordsIndexMap.keySet()) {
+//			boolean isrepeat = false;
+			if(adjWordsIndexMap.containsKey(key)){
+//				isrepeat = true;
+				
+				map.put(key+"/n ",nWordsIndexMap.get(key));
+				map.put(key+"/adj ",adjWordsIndexMap.get(key));
+			}
+			if (vWordsIndexMap.containsKey(key)) {
+				map.put(key+"/n", nWordsIndexMap.get(key));
+				map.put(key+"/v", vWordsIndexMap.get(key));
+//				isrepeat = true;
+			}
+//			nWordsIndexMap.remove(key);
+//			adjWordsIndexMap.remove(key);
+			
+		}
+		for (String key : vWordsIndexMap.keySet()) {
+			if(adjWordsIndexMap.containsKey(key)){
+				map.put(key+"/v", vWordsIndexMap.get(key));
+				map.put(key+"/adj ",adjWordsIndexMap.get(key));
+			}
+				
+		}
+		return map;
+	}
+	public Map<String, WordPolarFrequency> checkRepeatout(Map<String, WordPolarFrequency> map){
+		for (String key : nWordsIndexMap.keySet()) {
+			if(adjWordsIndexMap.containsKey(key)){
+				WordPolarFrequency w = nWordsIndexMap.get(key);
+				WordPolarFrequency adj = adjWordsIndexMap.get(key);
+				w.frequency +=adj.frequency;
+				map.put(key,w);
+			}
+			if (vWordsIndexMap.containsKey(key)) {
+				WordPolarFrequency w = nWordsIndexMap.get(key);
+				WordPolarFrequency v = vWordsIndexMap.get(key);
+				w.frequency +=v.frequency;
+				map.put(key,w);
+			}
+			
+		}
+		for (String key : vWordsIndexMap.keySet()) {
+			if(adjWordsIndexMap.containsKey(key)){
+				WordPolarFrequency w = vWordsIndexMap.get(key);
+				WordPolarFrequency adj = adjWordsIndexMap.get(key);
+				w.frequency +=adj.frequency;
+				map.put(key,w);
+				
+			}
+				
+		}
+		for (String key : map.keySet()) {
+			if(adjWordsIndexMap.containsKey(key)){
+				adjWordsIndexMap.remove(key);
+			}
+			if(vWordsIndexMap.containsKey(key)){
+				vWordsIndexMap.remove(key);
+			}
+			if(nWordsIndexMap.containsKey(key)){
+				nWordsIndexMap.remove(key);
+				System.out.print("success");
+			}
+			
+		}
+		return map;
 	}
 	//进行排序
 	public void PrintBySort(Map map,String dic) {
@@ -109,24 +183,17 @@ public class WordFrequencyCountByProal {
 		
 	}
 	//判断哈希表中是否已经有这个词了
-	public Map<String, WordPolarFrequency> isExist(Map<String, WordPolarFrequency> map,String word,int flag) {
+	public Map<String, WordPolarFrequency> isExist(Map<String, WordPolarFrequency> map,String word,int flag,String kind) {
 		if(map.containsKey(word)) {
 			WordPolarFrequency w = map.get(word);
 			w.frequency++;
 			map.replace(word, w);
 		} else {
-			WordPolarFrequency w = new WordPolarFrequency(word, flag, 1);
+			WordPolarFrequency w = new WordPolarFrequency(word, flag, 1,kind);
 			map.put(word, w);
 		}
 		return map;
 	}
-	//打印出现次数
-		public void printbyCount() {
-			for (String key : wordsIndexMap.keySet()) { 
-				
-			    System.out.println(wordsIndexMap.get(key).toString());   
-			}  
-		}
 
 	//将链表字符串化
 	public static String transListToString(List<Map.Entry<String,WordPolarFrequency>> list){  
@@ -138,13 +205,13 @@ public class WordFrequencyCountByProal {
 				  sb.append(list.get(i).toString());
 			} else {
 				sb.append(list.get(i).toString());
-				System.out.println(list.get(i));
+//				System.out.println(list.get(i));
 				sb.append("\r\n");
 				}
 			  }
 		  return sb.toString();
 		 }
-		  
+	
 //将链表写入文件
  public void  WriteListToFile(List<Map.Entry<String,WordPolarFrequency>> list,String filedec) {
 	 try   
@@ -180,10 +247,12 @@ public class WordFrequencyCountByProal {
 			int polar;
 			int frequency;
 			String word;
-			public WordPolarFrequency(String word,int polar,int frequency){
+			String kind;
+			public WordPolarFrequency(String word,int polar,int frequency,String kind){
 				this.word =word;
 				this.frequency = frequency;
 				this.polar = polar;
+				this.kind = kind;
 			}
 			
 			public int compareTo(WordPolarFrequency wpf) {
@@ -199,6 +268,7 @@ public class WordFrequencyCountByProal {
 				return "polar:"+polar+", frequency:"+frequency;
 				
 			}
+			
 		}
 	 
 
